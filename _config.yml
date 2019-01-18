@@ -7,8 +7,8 @@ description: Musings on data, basketball, books, etc.
 url: http://fordhiggins.com/
 baseurl: ''
 author:
-  name: Andrew Fong
-  url: https://twitter.com/fongandrewc
+  name: Ford Higgins
+  url: https://twitter.com/wfordh
 paginate: 5
 exclude:
 - README.md
