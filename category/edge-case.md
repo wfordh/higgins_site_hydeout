@@ -1,27 +1,13 @@
 ---
 layout: category
-title: Edge Case
----
+title: Sports
 
-Sample category page. You need to create a page for each category.
-The category is inferred from the title of the page, but you can also
-specify it with the `category` attribute in the front matter.
-
-```md
 ---
-layout: category
-title: My Category
----
-```
+All sports-focused posts will appear here. While there will likely be overlap between some posts that contain both data science/statistics and sports, any that contain sports will likely be placed here. 
 
-Or ...
+Some common topics will like include the following:
 
-```md
----
-layout: category
-title: Fancy Title
-category: My Category
----
-```
-
-Posts get listed below here.
+* NBA: Analytics, Philosophy, some occasional player breakdowns/opinions, and Xs and Os
+* NBA G-League: Similar to above, but likely without much, if any, Xs and Os or player breakdowns
+* College basketball: I love watching my Davidson Wildcats and also enjoy keeping tabs on top NBA draft prospects
+* Oakland A's: My favorite team that I'll likely always keep coming back to no matter what
