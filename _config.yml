@@ -2,8 +2,8 @@
 markdown: kramdown
 highlighter: rouge
 title: Ford Higgins' Blog
-tagline: Musings on data, basketball, books, etc
-description: Musings on data, basketball, books, etc
+tagline: Musings on data, basketball, books, etc.
+description: Musings on data, basketball, books, etc.
 url: http://fordhiggins.com/
 baseurl: ''
 author:
