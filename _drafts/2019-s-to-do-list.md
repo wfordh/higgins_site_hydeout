@@ -4,7 +4,7 @@ title: 2019's To-Do List
 excerpt: 'A brief list of ideas, goals, and areas of interest for 2019. It encompasses
   my interests in statistics/data science, basketball and other sports, and other
   hobbies. '
-date: ''
+date: 2019-01-18 00:00:00 -0800
 last_modified_at: ''
 categories:
 - Miscellaneous
