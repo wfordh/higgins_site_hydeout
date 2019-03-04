@@ -3,7 +3,6 @@ layout: category
 title: Sports
 category: Sports
 date: 2019-03-03 21:47:32 -0800
-published: false
 
 ---
 All sports-focused posts will appear here. While there will likely be overlap between some posts that contain both data science/statistics and sports, any that contain sports will likely be placed here.
