@@ -22,3 +22,5 @@ fields:
   description: Add category title here
   config:
     required: false
+pages:
+- category/miscellaneous.md
