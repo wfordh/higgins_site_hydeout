@@ -2,10 +2,10 @@
 layout: post
 title: Challenges of Starting a Data Career
 excerpt: ''
-date: ''
+date: 2019-03-03 00:00:00 -0800
 last_modified_at: ''
 categories:
-- miscellaneous
+- Miscellaneous
 tags: []
 comments: false
 
