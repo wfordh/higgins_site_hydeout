@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Data Science
-category: ''
+category: data-sci
 
 ---
 These posts will be focused on data science, statistics, and computer science, though what exactly that entails is to be determined. They will likely primarily be about theory with applications embedded within the posts, or questions about the ethics or directions the fields are taking. 
