@@ -23,5 +23,6 @@ fields:
   config:
     required: false
 pages:
+- category/sports.md
 - category/data-science.md
 - category/miscellaneous.md
