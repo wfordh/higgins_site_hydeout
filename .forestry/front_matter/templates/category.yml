@@ -23,4 +23,5 @@ fields:
   config:
     required: false
 pages:
+- category/data-science.md
 - category/miscellaneous.md
