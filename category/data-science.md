@@ -3,7 +3,6 @@ layout: category
 title: Data Science
 category: Data Science
 date: 2019-03-03 21:41:13 -0800
-published: false
 
 ---
 These posts will be focused on data science, statistics, and computer science, though what exactly that entails is to be determined. They will likely primarily be about theory with applications embedded within the posts, or questions about the ethics or directions the fields are taking.
