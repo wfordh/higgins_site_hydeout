@@ -9,9 +9,9 @@ tags: []
 comments: false
 
 ---
-The MLB season is over one third of the way done and the draft is right around the corner. I'm a pretty big follower of prospects in general, both draft and in the minor leagues, so I'm always interested to see how it plays out. Of course, the draft is also big for the A's considering they aren't a big spending team. They also have the specter of the failed Kyler Murray pick hanging over this draft. 
+The MLB season is over one third of the way done and the draft is right around the corner. I'm a pretty big follower of prospects in general, both draft and in the minor leagues, so I'm always interested to see how it plays out. Of course, the draft is also big for the A's considering they aren't a big spending team. They also have the specter of the failed Kyler Murray pick hanging over this draft.
 
-I don't expect a lot for this draft from the A's, considering they will be picking outside of the top ten for the first time in several years (thank goodness) and also traded away what turned out to be pick number 38 in the Emilio Pagan/Jurickson Profar deal (not looking great right now). Those two factors come together to put the A's towards the bottom in total slot money for the draft, limiting their bargaining power and ability to take risks with tough-to-sign high school players. 
+I don't expect a lot for this draft from the A's, considering they will be picking outside of the top ten for the first time in several years (thank goodness) and also traded away what turned out to be pick number 38 in the Emilio Pagan/Jurickson Profar deal (not looking great right now). Those two factors come together to put the A's towards the bottom in total slot money for the draft, limiting their bargaining power and ability to take risks with tough-to-sign high school players.
 
 I'll quickly go over some of the players that I am personally interested in and would like for the A's to go after, regardless of whether or not I think they actually will. The first chunk of players are early favorites from early in the season who played themselves above the A's pick, while the next group are players who will more likely be around for the A's.
 
@@ -27,10 +27,13 @@ Group 2:
 * Kyren Paris, CA HS SS: super young for class SS who grew into some tools this spring and is from the Bay Area.
 * Gunnar Henderson, AL HS SS: young for class SS with a lefty bat. Not a guarantee to stick at short, but bat should be enough for 3B. Alabama Class 3A basketball player of the year, too.
 * Matthew Lugo, PR HS SS: young for class (sense a theme?) SS from Puerto Rico with awesome bloodlines as the nephew of Carlos Beltran.
-* Blake Walston, NC HS LHP: popup 
-* Braden Shewmake, Texas A&M 2B:
+* Brennan Malone, FL HS RHP: nice combination of velo, off-speed, command, and classic starter's body at 6'5" 210.
+* Blake Walston, NC HS LHP: popup arm who is young for the class with great reports on his curveball. Also a quarterback for his HS team.
+* Braden Shewmake, Texas A&M 2B: Hit 11 homers as a freshman, but only 11 combined during next two years. Good hit tool.
 
-Other names t
+Michael Toglia, Michael Busch, and Seth Johnson are other names that have actually been linked to the A's. My preference order for those guys Busch, Toglia, and Johnson. I could see the A's interest in Johnson, a shortstop turned pitcher, as in the past they have had interest in guys converted to the mound. Maurice Hampton is a four star football recruit for LSU and has the tools you'd expect, but is a bit too raw for me.
+
+Other names that appeal to me later in the draft are 
 
 ***
 
