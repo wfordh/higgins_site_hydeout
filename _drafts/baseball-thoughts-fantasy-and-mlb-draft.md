@@ -33,7 +33,7 @@ Group 2:
 
 Michael Toglia, Michael Busch, and Seth Johnson are other names that have actually been linked to the A's. My preference order for those guys Busch, Toglia, and Johnson. I could see the A's interest in Johnson, a shortstop turned pitcher, as in the past they have had interest in guys converted to the mound. Maurice Hampton is a four star football recruit for LSU and has the tools you'd expect, but is a bit too raw for me.
 
-Other names that appeal to me later in the draft are 
+Other names that appeal to me later in the draft are TJ Sikkema, Jack Kochanowicz, Noah Murdock, Hudson Head, Dasan Brown, Christian Cairo (son of Miguel Cairo), Jack Kenley, Nick Kahle, Korey Lee, Matt Dyer, Chris Villaman, Chris Mokma, Jason Hodges (nephew of Craig Hodges), 
 
 ***
 
