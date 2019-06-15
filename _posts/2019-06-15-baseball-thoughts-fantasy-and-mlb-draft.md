@@ -4,7 +4,8 @@ title: Baseball Thoughts - Fantasy and MLB Draft
 excerpt: ''
 date: 2019-06-15 00:00:00 -0700
 last_modified_at: 
-categories: []
+categories:
+- Sports
 tags: []
 comments: false
 
