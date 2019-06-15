@@ -2,7 +2,7 @@
 layout: post
 title: Baseball Thoughts - Fantasy and MLB Draft
 excerpt: ''
-date: 
+date: 2019-06-15 00:00:00 -0700
 last_modified_at: 
 categories: []
 tags: []
@@ -49,4 +49,4 @@ My goal with any potential trades is finding players who would be good players t
 
 If I am able to do this, then I think I will be able to set myself up well for this year and next year. There are some astoundingly strong hitting prospects still available in my league that I would not mind holding onto for a season before they break into the big leagues, though admittedly I need to exercise patience over my prospect hound side. It seems there is an advantage to being an early adopter to some of these players, especially considering they only rise in salary by $1 over the offseason, which is a small price to pay for potentially elite players. In particular there are two or three catchers who are in the high minors and quality targets considering the lack of quality options at the big league level. 
 
-The next step is executing this plan, and of course that will be the hard part. It is important to not 
+The next step is executing this plan, and of course that will be the hard part. It is important to not grow too attached to any single one player and overpay for them, especially if that player is a prospect. I am also planning on building out some tools and models to help me by providing information about active owners, optimal times to start auctions based on cap space and open roster spots, and potentially projections that are focused on fantasy scoring. This will hopefully ease parts of the burden and allow me to focus on other parts of my team. 
