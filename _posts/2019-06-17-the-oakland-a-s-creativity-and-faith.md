@@ -4,7 +4,8 @@ title: The Oakland A's, Creativity, and Faith
 excerpt: ''
 date: 
 last_modified_at: 
-categories: []
+categories:
+- Sports
 tags: []
 comments: false
 
