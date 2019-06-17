@@ -1,0 +1,22 @@
+---
+layout: post
+title: The Oakland A's, Creativity, and Faith
+excerpt: ''
+date: 
+last_modified_at: 
+categories: []
+tags: []
+comments: false
+
+---
+The Oakland A's can be maddening to follow. The front office has shown tremendous ingenuity and been successful for large chunks of the last two decades in spite of a payroll consistently in the bottom third of the league. But the A's also nibble at the edges and wait for a couple of young players to propel the team forward for a few years before trading them, thus restarting the cycle. The payroll is low even though their ownership group is somewhere around the sixth richest, at least the last time I checked. The reluctance to spend money is a constraint the front office is forced to work around among a few others, a crumbling stadium and competing in a two-team market the main others, but those do not excuse everything. Whenever the A's do make a move and get in the headlines, I'm still often left feeling like they are a pretty vanilla team.
+
+They have certainly pushed the envelope at times, especially with the Kyler Murray pick that ignominiously backfired. The front office has taken some calculated gambles like trading for James Kaprielian and Jesus Luzardo (one of those has worked out so far and one has not) and seems to generally have a good pulse on what is going on within the industry. They're reportedly going to break the bank for one of the top Latin American prospects for this year's July 2nd class, which will add another high potential player to the farm system.
+
+So why am I unhappy? My complaint is that few of these moves really seem to scream creativity. You do not hear any stories about how progressive the club is with player development or strategy. Besides Farhan Zaidi (and his poaching of the A's scouting personnel after getting the Giants job), the A's front office is not getting hired away by other teams. You don't see them get very creative with contracts, either with free agents or extensions for younger players. And even in the draft, while they have shifted their focus to toolsier players at the top of the draft, there's nothing that makes me feel like they are ahead of the curve. They rarely try to move money around in the draft, typically go pretty pitcher heavy with their picks, and rarely have more than a handful of high school prospects. They simply play it straight, with the Murray pick being an exception, and even then he was signed to an overslot deal.
+
+This year's first pick, Logan Davidson out of Clemson, is an example of this lack of inspiration in my opinion. If you read the first few points on his scouting report, then he sounds great - "at least average power", "good frame and athleticism", "good bet to stick at shortstop", "son of 6-year MLB vet". But then you wonder why a college shortstop - a player type that typically rises on draft day - is still around if he's that good of a prospect. The answer  is that he struck out 20% of the time across his career at Clemson without any real year over year progress and also struggled immensely with wood bats in the Cape Cod League. Granted, personal favorite Hunter Bishop had similar struggles with both strikeout rate and on the Cape, but he's also projected at a premium defensive position, is young for his class, and has more raw power.
+
+I'm certainly no scouting expert, but moves like picking Logan Davidson plus a bunch of other college players or signing Robbie Grossman and Nick Hundley shake my faith in the front office a bit. Beane and Forst still have a vote of confidence from me, I just wish they showed more creativity in their operations. It subtracts from how I feel about the team moving forward, especially considering how long Beane has been around. Maybe he's gotten complacent.
+
+Or maybe I'm just another random fan finding something to complain about. All things considered, the A's are right about where I thought they'd be at this point in the season. Hanging around .500 and on the fringes of the playoff race with some reinforcements coming on the pitching side. Luzardo and Puk have already started their rehab assignments while Manaea is [nearing his own](https://www.sfchronicle.com/athletics/article/A-s-Sean-Manaea-getting-close-to-rehab-14001604.php?utm_campaign=CMS%20Sharing%20Tools%20(Premium)&utm_source=t.co&utm_medium=referral). Who knows, in four months time maybe I will be singing the A's praises. In the meantime I will continue being a fan looking for moments of faith-building inspiration and creativity.
