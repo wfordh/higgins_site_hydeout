@@ -45,6 +45,7 @@ fields:
   description: Active if you want to allow comments (this option is only available
     if you've set Disqus up in your Site Configuration)
 pages:
+- _posts/ruminations-on-basketball.md
 - _posts/2019-06-17-the-oakland-a-s-creativity-and-faith.md
 - _posts/2019-06-15-baseball-thoughts-fantasy-and-mlb-draft.md
 - _posts/2019-01-18-2019-s-to-do-list.md
