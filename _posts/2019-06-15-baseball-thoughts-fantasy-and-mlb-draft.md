@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Baseball Thoughts - Fantasy and MLB Draft
-excerpt: ''
+excerpt: Sketching out the 2019 MLB draft and my 2019 fantasy baseball season
 date: 2019-06-15 00:00:00 -0700
 last_modified_at: 
 categories:
