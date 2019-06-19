@@ -4,8 +4,7 @@ title: The Oakland A's, Creativity, and Faith
 excerpt: A brief exploration into why the A's currently frustrate me
 date: 
 last_modified_at: 
-categories:
-- Sports
+categories: []
 tags: []
 comments: false
 
