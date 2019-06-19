@@ -2,7 +2,7 @@
 layout: post
 title: The Oakland A's, Creativity, and Faith
 excerpt: A brief exploration into why the A's currently frustrate me
-date: 
+date: 2019-06-18 00:00:00 -0700
 last_modified_at: 
 categories:
 - Sports
