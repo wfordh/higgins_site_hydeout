@@ -16,3 +16,5 @@ Has analytics slowed the rate of rule changes? How teams figure out the system q
 Changes to the game and how it is played.
 
 Changes to the game w/r/t how it is produced and presented.
+
+Impact vs Talent: role of analytics (and eye test?) small blurb on how contract is inextricably linked to both of them
