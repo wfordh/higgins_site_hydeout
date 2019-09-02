@@ -31,4 +31,6 @@ I intend to explore these questions here and related branches of thought in subs
 
 Let's not bury the lede here - some iteration of analytics was always going to happen. It's well documented that coaches such as Dean Smith used statistics to better track, measure, and evaluate team performance, which in turn influenced team strategy. That level of analytics has had a place in the game for a long time and would have continued to, even without the technical revolution that has allowed for innovation in many different industries, not just sports. 
 
-Video tech and video coordinators.  
+Video tech and video coordinators. 
+
+Other possible paths. Could have taken longer for analytics to be adopted.
