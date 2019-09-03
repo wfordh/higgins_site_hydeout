@@ -35,9 +35,9 @@ The level of analytics utilized by Smith and others has had a place in the game 
 
 A common critique of analytics is that it "ruins the game", or sucks the fun out of it in some way. Analytics has simply illuminated some pathways to innovation that were previously unseen, and discouraged the game from exploring other paths. The driving forces behind advancements in the game have always been coaches trying to fit the unique talents of their players to the rules of the game. Chances are a Steph Curry-like shooter would have come along at some point anyway, and the right coach paired with that player would have given us similar results to the Curry/Kerr pairing (though Curry was certainly already elite prior to Kerr). 
 
-Or maybe a different revolutionary player would come instead and the game would have taken a different turn. Who knows. It's all possible, but the point here is that it's possible irrespective of analytics. What it really depends on are the players, the rules, and the coaches (we'll explore the rules aspect in another piece). They are the driving factors, while the technological advancements act as tools supplementing and enhancing them. 
+Or maybe a different revolutionary player would come instead and the game would have taken a different turn. Maybe that happens five years later. Who knows. It's all possible, but the point here is that it's possible irrespective of analytics. What it really depends on are the players, the rules, and the coaches (we'll explore the rules aspect in another piece). They are the driving factors, while the technological advancements in video and computation act as tools supplementing and enhancing them. 
 
-For analytics to be successful, it needs data. How do you get data? By playing the game. So analytics proponents want to see the game played as much as anyone else. 
+For analytics to be successful, it needs data. How do you get data? By playing the game. So analytics proponents want to see the game played as much as anyone else. Put this in with rule changes and scheduling.
 
 That level of analytics has had a place in the game for a long time and would have continued to, even without the technical revolution that has allowed for innovation in many different industries, not just sports. 
 
