@@ -32,11 +32,17 @@ I intend to explore these questions here and related branches of thought in subs
 
 Let's not bury the lede here - some iteration of analytics was always going to happen. It's well documented that coaches such as Dean Smith used statistics to better track, measure, and evaluate team performance, which in turn influenced team strategy. There were other possible paths for analytics to have taken up to this point, but the current state strikes me as one of the most common outcomes. Other paths were possible to reach this point and the timeline was perhaps sped up a bit thanks to the overall progressive nature of the league, especially under Adam Silver, compared to other leagues, but something akin to this state was likely all along.
 
-(add short paragraph transitioning from current point to tracing it back a bit)
+(add short paragraph transitioning from current point to tracing it back a bit. stuff about dean oliver, pelton, and morey getting jobs. Synergy sports, bk-ref, pitchf/x, and eventually sportvu/statcast)
+
+Tracing back the path that was taken, we see some of the crucial junctures and can piece together where individuals influenced the adoption of analytics. SportVu's tracking cameras and the data that came with it, including Second Spectrum and their products built on top of that data. Prior to that, Synergy Sports was responsible for pushing forward both video analysis and analytics by classifying play types, aggregating player and team statistics for them, and presenting them on a per possession basis and with stats such as effective field goal percentage.
+
+The Sloan Sports Analytics Conference has become a tentpole event and driving force of sports analytics as a whole over it's history, with papers, talks, and presentations both pushing analytics forward technically and broadening it's social capital. One of it's founding members is none other than Daryl Morey, the famous general manager of the Houston Rockets and whose success has lent credibility to analytics both socially and within the tight-knit basketball world. 
+
+Finally we have individual contributors such as Dean Oliver and Kevin Pelton. Oliver 
 
 The level of analytics utilized by Smith and others has had a place in the game for a long time and would have continued to have a role at every level. Coaches are responsible for winning games, and winning games requires finding an optimal strategy for your roster. Sure, the technical revolution with computing power has allowed for innovation both within sports and other industries, but that simply sped up the innovation. It didn't create analytics and the associated roles with teams out of nothing any more than the advent of video technology lead to the proliferation of video scouts and coordinators.
 
-(paragraph on possible alternate histories?)
+(paragraph on possible alternate histories? what if some of the things mentioned in trace-back paragraph had failed in some way. what if they had been seen earlier?)
 
 A common critique of analytics is that it "ruins the game", or sucks the fun out of it in some way. Analytics has simply illuminated some pathways to innovation that were previously unseen, and discouraged the game from exploring other paths. The driving forces behind advancements in the game have always been coaches trying to fit the unique talents of their players to the rules of the game. Chances are a Steph Curry-like shooter would have come along at some point anyway, and the right coach paired with that player would have given us similar results to the Curry/Kerr pairing (though Curry was certainly already elite prior to Kerr).
 
@@ -44,7 +50,7 @@ Or maybe a different revolutionary player would come instead and the game would 
 
 (Because of these things, analytics was going to happen in one form or another. It doesn't "solve" basketball any more than coaches have tried to for years. Get more direct about why it was going to happen, and thus why it's silly to pushback against it - even when done by "nerds who can't play")
 
-Analytics may have put guardrails on the way the game is played, but they are simply new versions of what already existed. The NBA game has always been fairly homogenous with respect to playstyle because it tends to be a copycat, conservative league in this regard. Coaches will use what they learned from other coaches and implement it with their own team. Pick and roll defenses will come in and out of vogue like they always have. 
+Analytics may have put guardrails on the way the game is played, but they are simply new versions of what already existed. The NBA game has always been fairly homogenous with respect to playstyle because it tends to be a copycat, conservative league in this regard. Coaches will use what they learned from other coaches and implement it with their own team. Pick and roll defenses will come in and out of vogue like they always have.
 
 (conclusion for this argument/article and lead in to future articles)
 
