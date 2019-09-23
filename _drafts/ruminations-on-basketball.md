@@ -10,29 +10,11 @@ tags: []
 comments: false
 
 ---
-Analytics was always going to happen. It didn't ruin anything. We ended up at the most likely point, though maybe faster than expected thanks to technological advances.
-
-Has analytics slowed the rate of rule changes? How teams figure out the system quicker than ever and why that means we need to shake it up. The role of analytics and the desire for standardization.
-
-Changes to the game and how it is played.
-
-Changes to the game w/r/t how it is produced and presented.
-
-Impact vs Talent: role of analytics (and eye test?) small blurb on how contract is inextricably linked to both of them
-
-Path dependence, randomness, fat tails, negative vs positive payoffs, etc Taleb ideas in basketball
-
-Global vs local optima
-
-***
-
 Basketball on Paper was published 15 years ago. ESPN's Real Plus-Minus was introduced five years ago. The Sloan Sports Analytics Conference is over 10 years old. It is clear that basketball analytics has a firm foothold in the greater world of basketball and is here to stay. However, was it always going to be like this? Are there other possible histories where analytics did not become a part of the basketball ecosystem?
 
 I intend to explore these questions here and related branches of thought in subsequent pieces, in an effort to take a critical look at the state of the NBA today. The pieces will primarily concern the role of analytics and its influence on the game, but they will be varying degrees of technical and generally rely more on heuristics than hard numbers. Although I have a rough outline of ideas I want to cover in these pieces, part of the journey is seeing which new branches sprout up as we move through these meditations. Now on to the fun part - was analytics as it is known today always going to happen?
 
 Let's not bury the lede here - some iteration of analytics was always going to happen. It's well documented that coaches such as Dean Smith used statistics to better track, measure, and evaluate team performance, which in turn influenced team strategy. There were other possible paths for analytics to have taken up to this point, but the current state strikes me as one of the most common outcomes. Other paths were possible to reach this point and the timeline was perhaps sped up a bit thanks to the overall progressive nature of the league, especially under Adam Silver, compared to other leagues, but something akin to this state was likely all along.
-
-(add short paragraph transitioning from current point to tracing it back a bit. stuff about dean oliver, pelton, and morey getting jobs. Synergy sports, bk-ref, pitchf/x, and eventually sportvu/statcast)
 
 If we trace back the taken path, we can piece together the crucial junctions where technology, events, and individuals influenced the adoption of analytics. For example, SportVu's tracking cameras and the data that came with it, including Second Spectrum and the products they build on top of that data. Prior to that, Synergy Sports was responsible for pushing forward both video analysis and analytics by classifying play types, aggregating player and team statistics for them, and presenting them on a per possession basis and with stats such as effective field goal percentage.
 
@@ -41,8 +23,6 @@ The Sloan Sports Analytics Conference has become a tentpole event and driving fo
 Finally we have individual contributors such as Kevin Pelton and Dean Oliver. Pelton has  increased public awareness of basketball analytics through his work with Basketball Prospectus and ESPN.com. Oliver is considered by many to be the first intentional user of more advanced statistical methods to analyze basketball after becoming a player-coach at Cal Tech. He helped broaden knowledge through his seminal book, _Basketball on Paper_, and will be transitioning back to the sideline this year for the Wizards.
 
 These are some of the more important contributors to basketball analytics as we know it, but the path still goes back through coaches like Dean Smith. The level of analytics utilized by coaches has had a place in the game for a long time and would have continued to have a role at every level. Coaches are responsible for winning games, and winning games requires finding an optimal strategy for your roster. They have always used recorded stats - coaches come up with their own statistics all the time and often have assistants record non-traditional ones - to inspect the game. Sure, the technical revolution with computing power has allowed for innovation both within sports and other industries, but that simply sped it up. It didn't create analytics and the associated roles with teams out of nothing any more than the advent of video technology lead to the proliferation of video scouts and coordinators.
-
-(paragraph on possible alternate histories? what if some of the things mentioned in trace-back paragraph had failed in some way. what if they had been seen earlier?)
 
 But what if some of these things hadn't happened? What if Yao Ming breaks down one season sooner and Morey's Rockets falter, leading to his firing? Does Sloan still become the preeminent conference? What if Oliver didn't get a chance to build on his basketball knowledge with Bill Bertka's scouting company and decided to focus solely on engineering? Do we still have analytics in basketball?
 
@@ -61,13 +41,3 @@ Analytics doesn't "solve" basketball or provide some sort of silver bullet any m
 Analytics may have put guardrails on the way the game is played, but they are simply new versions of limits that already existed. The NBA game has always been fairly homogenous with respect to play style because it tends to be a copycat, conservative league in this regard. Coaches will use what they learned from other coaches and implement it with their own team. This mentality is what lead many coaches to play it safe and impose their own limits on how the game was played, impacting it's evolution. 
 
 Though we are still seeing the impact that wide spread analytics unfold, especially how it relates to trends, there's no world where it does not become a part of the game. The path to get here was winding and could have taken many different turns, but the history of analytics is not very surprising in the end. Teams and coaches want to win games and have used rudimentary analytics for these means since the beginning of the game. Now that we have established that analytics are part of the basketball ecosystem and likely would have been under any conditions, the next pieces here will consider how analytics affect the overall ecosystem.
-
-(conclusion for this argument/article and lead in to future articles)
-
-For analytics to be successful, it needs data. How do you get data? By playing the game. So analytics proponents want to see the game played as much as anyone else. Put this in with rule changes and scheduling.
-
-That level of analytics has had a place in the game for a long time and would have continued to, even without the technical revolution that has allowed for innovation in many different industries, not just sports.
-
-Video tech and video coordinators.
-
-Other possible paths. Could have taken longer for analytics to be adopted.
