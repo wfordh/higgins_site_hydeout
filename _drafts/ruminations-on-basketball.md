@@ -3,10 +3,13 @@ layout: post
 title: The Path of Analytics in Basketball
 excerpt: Introduction to inspections of basketball, in particular its relationship
   with analytics
-date: 2019-09-02 00:00:00 -0700
+date: 2019-09-24 22:00:00 -0700
 last_modified_at: 
 categories: []
-tags: []
+tags:
+- NBA
+- Analytics
+- Basketball
 comments: false
 
 ---
