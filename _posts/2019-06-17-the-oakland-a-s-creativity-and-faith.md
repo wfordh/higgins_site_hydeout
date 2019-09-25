@@ -7,7 +7,7 @@ last_modified_at:
 categories:
 - Sports
 tags: []
-comments: false
+comments: true
 
 ---
 The Oakland A's can be maddening to follow. The front office has shown tremendous ingenuity and been successful for large chunks of the last two decades in spite of a payroll consistently in the bottom third of the league. But the A's also nibble at the edges and wait for a couple of young players to propel the team forward for a few years before trading them, thus restarting the cycle. The payroll is low even though their ownership group is somewhere around the sixth richest, at least the last time I checked. The reluctance to spend money is a constraint the front office is forced to work around among a few others, a crumbling stadium and competing in a two-team market the main others, but those do not excuse everything. Whenever the A's do make a move and get in the headlines, I'm still often left feeling like they are a pretty vanilla team.
