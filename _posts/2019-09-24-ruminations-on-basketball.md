@@ -5,7 +5,8 @@ excerpt: Introduction to inspections of basketball, in particular its relationsh
   with analytics
 date: 2019-09-24 22:00:00 -0700
 last_modified_at: 
-categories: []
+categories:
+- Sports
 tags:
 - NBA
 - Analytics
