@@ -10,7 +10,7 @@ tags:
 - NBA
 - Analytics
 - Basketball
-comments: false
+comments: true
 
 ---
 Basketball on Paper was published 15 years ago. ESPN's Real Plus-Minus was introduced five years ago. The Sloan Sports Analytics Conference is over 10 years old. It is clear that basketball analytics has a firm foothold in the greater world of basketball and is here to stay. However, was it always going to be like this? Are there other possible histories where analytics did not become a part of the basketball ecosystem?
