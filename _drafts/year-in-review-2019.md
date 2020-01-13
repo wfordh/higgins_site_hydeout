@@ -2,7 +2,7 @@
 layout: post
 title: 'Year in Review: 2019'
 excerpt: Reviewing goals, accomplishments, and other noteworthy things from 2019
-date: 2020-01-13 00:00:00 -0800
+date: 2020-01-12 00:00:00 -0800
 last_modified_at: 
 categories:
 - Miscellaneous
