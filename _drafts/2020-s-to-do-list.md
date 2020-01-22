@@ -33,8 +33,8 @@ Technical:
   * Class: [Ethical Hacking in Python](https://www.udemy.com/course/learn-python-and-ethical-hacking-from-scratch/)
   * Language: Nim
 * Q4
-  * Project: 
-  * Class: 
+  * Project: NCAA D3 basketball stats pipeline
+  * Class: [Ethical Hacking Pt 2](https://www.udemy.com/course/network-hacking-continued-intermediate-to-advanced/) or something from [Complexity Explorer](https://www.complexityexplorer.org/courses)
   * Language: Julia
 * Miscellaneous
   * 
