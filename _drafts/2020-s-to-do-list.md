@@ -15,10 +15,8 @@ In general, I want to continue improving and learning and execute more of my own
 
 Financial:
 
-* plan
-* 83b
-* New credit card
-* better savings
+* New credit card and savings accounts to get better returns
+* Create a financial plan to enable better and quicker decisions on new purchases
 
 Technical:
 
@@ -29,20 +27,20 @@ Technical:
 
 Social/Lifestyle:
 
-* Italian/Spanish
-* Reading
+* Continue learning more Italian/Spanish through Duolingo and watching shows in those languages. I think I'll try to get to at least one Duolingo event to test those skills.
+* Books that I'm planning on reading this year:
   * Sprawl Ball
   * Everything & More
   * Serrano Basketball
   * Fall of Hyperion
-  * Dune 3
+  * Children of Dune
   * Range
   * Hello World
   * Broken Earth Trilogy
-* No take-out/delivery
-* volunteer
-* Firefox
-* Password manager
-* "Adult" purchases
-* Dunking
-* understand iCloud
+* Not order take-out or delivery at all this year because of the wasteful packaging.
+* Volunteer twice in the year, and at least one of them on my own and not organized by my company.
+* Switch all my personal browser usage over to Firefox.
+* Start using a password manager.
+* Make some purchases that seem, at least to me, to line up with being an adult. Buy a new suitcase so I'm not just using a duffel bag every time I travel. Get a drying rack for clothes so I don't have to find open space in my room to hang them up.
+* Be able to dunk consistently again. I've only been able to dunk on occasion for the last several years, and while it won't be easy to get back to that level after hurting my ankle, I'm hopeful that I'll be able to get there.
+* Understand iCloud better because it never makes any sense to me. It says there's no room, but then doesn't show what's taking up the space. 
