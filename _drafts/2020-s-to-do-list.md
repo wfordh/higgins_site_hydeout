@@ -21,9 +21,23 @@ Financial:
 Technical:
 
 * Q1
+  * Project: NBA salaries distribution across position and age
+  * Class: [Data Structures and Algorithms in Python](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/)
+  * Language: Python
 * Q2
+  * Project: Fantasy baseball and football tools
+  * Class: [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) (second try!)
+  * Language: JavaScript
 * Q3
+  * Project: Field Control score revamp
+  * Class: [Ethical Hacking in Python](https://www.udemy.com/course/learn-python-and-ethical-hacking-from-scratch/)
+  * Language: Nim
 * Q4
+  * Project: 
+  * Class: 
+  * Language: Julia
+* Miscellaneous
+  * 
 
 Social/Lifestyle:
 
