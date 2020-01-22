@@ -20,6 +20,10 @@ Financial:
 
 Technical:
 
+I am going to try something new this year and assign things I want to do and learn into the four quarters of the year. The projects and classes are fairly straightforward - I try to complete them in the allotted time. I think that will be easier for the projects since I can drop them down the priority list fairly easily, but it might be tougher for the classes. The Q4 classes are a little less predetermined to allow me to bump them if the other classes take a bit longer (or if I want to flex to another project).
+
+The languages may be more confusing - I am not trying to learn all of those languages in full this year. I already know a pretty good amount of Python and have some residual R knowledge left over from a few years ago, but want to dip my toes into more languages. 
+
 * Q1
   * Project: NBA salaries distribution across position and age
   * Class: [Data Structures and Algorithms in Python](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/)
