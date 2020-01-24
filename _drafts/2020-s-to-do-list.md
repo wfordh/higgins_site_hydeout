@@ -42,7 +42,8 @@ The languages may be more confusing - I am not trying to learn all of those lang
   * Language: Julia
 * Miscellaneous
   * NBA player clustering - this has been done before but there are things I want to build off of it that I haven't seen in public
-  * NBA draft model - same as above
+  * NBA draft model - same as above. 
+    * One thing that could boost both of these efforts is relying on others to provide the data so I don't have to build a pipeline in addition to the modeling. I think that's an important lesson that I've begun to internalize more - just because the forerunners of basketball analytics had to do that, I don't. 
   * Poke around the [Data Engineering Cookbook](https://github.com/andkret/Cookbook)
 
 Social/Lifestyle:
@@ -64,3 +65,5 @@ Social/Lifestyle:
 * Make some purchases that seem, at least to me, to line up with being an adult. Buy a new suitcase so I'm not just using a duffel bag every time I travel. Get a drying rack for clothes so I don't have to find open space in my room to hang them up.
 * Be able to dunk consistently again. I've only been able to dunk on occasion for the last several years, and while it won't be easy to get back to that level after hurting my ankle, I'm hopeful that I'll be able to get there.
 * Understand iCloud better because it never makes any sense to me. It says there's no room, but then doesn't show what's taking up the space. 
+
+Outside of these things I do want to be more active on this blog, including expanding on some of my basketball thoughts. It's an exciting list and I'm looking forward to tackling it. 
