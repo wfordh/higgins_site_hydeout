@@ -23,7 +23,7 @@ Technical:
 
 I am going to try something new this year and assign things I want to do and learn into the four quarters of the year. The projects and classes are fairly straightforward - I try to complete them in the allotted time. I think that will be easier for the projects since I can drop them down the priority list fairly easily, but it might be tougher for the classes. The Q4 classes are a little less predetermined to allow me to bump them if the other classes take a bit longer (or if I want to flex to another project).
 
-The languages may be more confusing - I am not trying to learn all of those languages in full this year. I already know a pretty good amount of Python and have some residual R knowledge left over from a few years ago, but want to dip my toes into more languages.
+The languages may be more confusing - I am not trying to learn all of those languages in full this year. I already know a pretty good amount of Python and have some residual R knowledge left over from a few years ago, but want to dip my toes into more languages. My main source for these languages will be O'Reilly books I have access to via my [ACM](https://www.acm.org/) membership.
 
 * Q1
   * Project: NBA salaries distribution across position and age
@@ -62,8 +62,8 @@ Social/Lifestyle:
 * Not order take-out or delivery at all this year because of the wasteful packaging.
 * Volunteer twice in the year, and at least one of them on my own and not organized by my company.
 * Switch all my personal browser usage over to Firefox.
-* Start using a password manager.
-* Make some purchases that seem, at least to me, to line up with being an adult. Buy a new suitcase so I'm not just using a duffel bag every time I travel. Get a drying rack for clothes so I don't have to find open space in my room to hang them up.
+* Start using a password manager on my personal machine.
+* Make some purchases that seem, at least to me, to line up with being an adult. Buy a new suitcase so I'm not just using a duffel bag every time I travel. Get a drying rack for clothes so I don't have to hang them from random spots of my room. Etc etc.
 * Be able to dunk consistently again. I've only been able to dunk on occasion for the last several years, and while it won't be easy to get back to that level after hurting my ankle, I'm hopeful that I'll be able to get there.
 * Understand iCloud better because it never makes any sense to me. It says there's no room, but then doesn't show what's taking up the space.
 
