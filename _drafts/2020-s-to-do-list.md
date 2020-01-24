@@ -41,7 +41,9 @@ The languages may be more confusing - I am not trying to learn all of those lang
   * Class: [Ethical Hacking Pt 2](https://www.udemy.com/course/network-hacking-continued-intermediate-to-advanced/) or something from [Complexity Explorer](https://www.complexityexplorer.org/courses)
   * Language: Julia
 * Miscellaneous
-  * 
+  * NBA player clustering - this has been done before but there are things I want to build off of it that I haven't seen in public
+  * NBA draft model - same as above
+  * Poke around the [Data Engineering Cookbook](https://github.com/andkret/Cookbook)
 
 Social/Lifestyle:
 
