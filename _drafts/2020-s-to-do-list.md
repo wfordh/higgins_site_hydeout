@@ -4,7 +4,8 @@ title: 2020's To-Do List
 excerpt: Goals for 2020
 date: 2020-01-23 00:00:00 -0800
 last_modified_at: 
-categories: []
+categories:
+- Miscellaneous
 tags: []
 comments: false
 
