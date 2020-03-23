@@ -16,7 +16,7 @@ It is somewhat expected, but the fact I have to stay in my apartment except to g
 
 This is important and, hopefully without making it sound like an excuse, a big reason I have been able to work on projects. I am a person who feels a lot of responsibility to those that I am around and want to make sure they feel their time is valued by me. I'm clearly biased and consider it one of my better traits, but it means I don't always do what I want to do. However, I'm taking advantage of this opportunity to do more of the things I planned on doing and going after more things from my start of year to-do list. 
 
-Updates
+Updates on class, project, reading, etc
 
 ***
 
