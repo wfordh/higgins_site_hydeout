@@ -14,4 +14,18 @@ The first quarter of 2020 caused a lot of emotional stress thanks to COVID-19, t
 
 It is somewhat expected, but the fact I have to stay in my apartment except to get groceries, do laundry, and occasionally walk around helps me make progress on my goals. I now don't have a commute and can't make weekend plans, so I am left to do the things that I want to accomplish. There are no longer any distractions, besides Netflix and online shopping (definitely doing more of that than ever before). Sports are not really a thing for the time being and I have so far avoided resorted to video games. 
 
-This is important and, hopefully without making it sound like an excuse, a big reason I have been able to work on projects. I am a person who feels a lot of responsibility to those that I am around and want to make sure others feel their time is valued by me. I'm clearly biased and consider it one of my better traits, but it means I don't always do what I want to do. 
+This is important and, hopefully without making it sound like an excuse, a big reason I have been able to work on projects. I am a person who feels a lot of responsibility to those that I am around and want to make sure they feel their time is valued by me. I'm clearly biased and consider it one of my better traits, but it means I don't always do what I want to do. However, I'm taking advantage of this opportunity to do more of the things I planned on doing and going after more things from my start of year to-do list. 
+
+Updates
+
+***
+
+Brief aside on Kobe
+
+***
+
+Bit more on some of the opportunities from COVID
+
+***
+
+Intro to story?
