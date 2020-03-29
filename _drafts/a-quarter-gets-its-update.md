@@ -18,7 +18,9 @@ This is important and, hopefully without making it sound like an excuse, a big r
 
 My progress has been solid in some parts, though a bit lacking in others. I researched credit cards and savings account, but have yet to commit to any in particular, though I finally picked a password manager. I went with [Bitwarden](https://bitwarden.com/) and am happy with it so far. I have switched most of my personal laptop browser usage to Firefox, but not yet all. I have not ordered take out much to date this year, but that may grow more difficult with COVID-19.
 
-I am making good progress on my book list so far this year, finishing _Children of Dune_, _Dune Messiah_, _Hello World_, and, most recently, _Everything and More_. Next up will be _Range_ and _Sprawl Ball_, probably followed by some fiction.
+I am making good progress on my book list so far this year, finishing _Children of Dune_, _Dune Messiah_, _Hello World_, and, most recently, _Everything and More_. Next up will be _Range_ and _Sprawl Ball_, probably followed by some fiction. The shelter-in-place order from COVID-19 shut down libraries, which will make it tougher to get some books and also force me to start using my Kindle to rent e-books. 
+
+Work on the technical pieces came slower than hoped, but I'm getting there. 
 
 ***
 
