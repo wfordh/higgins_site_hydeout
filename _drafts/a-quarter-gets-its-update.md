@@ -18,9 +18,13 @@ This is important and, hopefully without making it sound like an excuse, a big r
 
 My progress has been solid in some parts, though a bit lacking in others. I researched credit cards and savings account, but have yet to commit to any in particular, though I finally picked a password manager. I went with [Bitwarden](https://bitwarden.com/) and am happy with it so far. I have switched most of my personal laptop browser usage to Firefox, but not yet all. I have not ordered take out much to date this year, but that may grow more difficult with COVID-19.
 
-I am making good progress on my book list so far this year, finishing _Children of Dune_, _Dune Messiah_, _Hello World_, and, most recently, _Everything and More_. Next up will be _Range_ and _Sprawl Ball_, probably followed by some fiction. The shelter-in-place order from COVID-19 shut down libraries, which will make it tougher to get some books and also force me to start using my Kindle to rent e-books. 
+I am making good progress on my book list so far this year, finishing _Children of Dune_, _Dune Messiah_, _Hello World_, and, most recently, _Everything and More_. Next up will be _Range_ and _Sprawl Ball_, probably followed by some fiction. The shelter-in-place order from COVID-19 shut down libraries, which will make it tougher to get some books and also force me to start using my Kindle to rent e-books.
 
-Work on the technical pieces came slower than hoped, but I'm getting there. 
+Work on the technical pieces came slower than hoped, but I'm getting there. I had a decent amount of trouble getting good, clean data for my NBA salaries project, but after tweaking some code and finding a better data source for some of it, it is back on track. Finishing a v0 of it where I focus mostly on the raw salary and intersection with age and position, ignoring subtleties like rookie scales and veteran minimums having different cap numbers than salary numbers, is my focus and will be out the door by mid-April. 
+
+It has been even harder to stay on pace with the Python Data Structures and Algorithms class, which combined with the fact I have no plan on how to attack JavaScript (Q2's language of choice) means I am making a command decision to move that part of my plan into thirds instead of quarters. Hopefully I will be able to move back to quarters at some point, but as of now I'll be booting my Q3 language (Nim) and whatever my Q4 class would have been from this year's plan. 
+
+All of that said, I think I am getting better and better at writing Python and Pythonic code. I learned how pipenv works, though it was a rather painful experience, and have gotten better at modularizing my own scripts for ease of use and de-bugging. I'm excited to continue getting better and using Python to do more and more cool projects.
 
 ***
 
