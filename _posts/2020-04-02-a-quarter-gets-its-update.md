@@ -1,8 +1,8 @@
 ---
 layout: post
 title: A Quarter Gets Its Update
-excerpt: 'COVID-19 is upon us and impacting day to day life, but the quarter is still
-  marching toward its conclusion. '
+excerpt: COVID-19 is upon us and impacting day to day life, but the quarter marched
+  on toward its conclusion.
 date: 2020-04-02 00:00:00 -0700
 last_modified_at: 
 categories:
