@@ -36,4 +36,8 @@ Another topic that I'll mostly leave for the better writers, but I want to touch
 
 ***
 
-Intro to story?
+I have always loved fantasy books and games, and writing my own setting has been on the fringes of my interests for a long time. I'm not really sure if it's best for a video game, book, or other medium, but some of the broad strokes have existed for a while. This includes the introduction, which consists of two individuals stumbling through the forest and bumping into another person. Very original, I know. The two stumblers have bounced between identities such as ex-government agents and silenced scholars, but the one they run into has always been more defined. He is a monk whose religion became a thing of the past for the greater public, and so he sought refuge in the wilderness before the two stumblers will inevitably drag him into something bigger. 
+
+Maybe I will spend some time fleshing out the world a bit more, but in the meantime I will definitely be writing a backstory for my newest Dungeons & Dragons character. I will tackle that this weekend since it needs to be done before our first full session on Sunday.
+
+***
