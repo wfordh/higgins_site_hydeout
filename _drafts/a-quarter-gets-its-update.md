@@ -20,9 +20,9 @@ My progress has been solid in some parts, though a bit lacking in others. I rese
 
 I am making good progress on my book list so far this year, finishing _Children of Dune_, _Dune Messiah_, _Hello World_, and, most recently, _Everything and More_. Next up will be _Range_ and _Sprawl Ball_, probably followed by some fiction. The shelter-in-place order from COVID-19 shut down libraries, which will make it tougher to get some books and also force me to start using my Kindle to rent e-books.
 
-Work on the technical pieces came slower than hoped, but I'm getting there. I had a decent amount of trouble getting good, clean data for my NBA salaries project, but after tweaking some code and finding a better data source for some of it, it is back on track. Finishing a v0 of it where I focus mostly on the raw salary and intersection with age and position, ignoring subtleties like rookie scales and veteran minimums having different cap numbers than salary numbers, is my focus and will be out the door by mid-April. 
+Work on the technical pieces came slower than hoped, but I'm getting there. I had a decent amount of trouble getting good, clean data for my NBA salaries project, but after tweaking some code and finding a better data source for some of it, it is back on track. Finishing a v0 of it where I focus mostly on the raw salary and intersection with age and position, ignoring subtleties like rookie scales and veteran minimums having different cap numbers than salary numbers, is my focus and will be out the door by mid-April.
 
-It has been even harder to stay on pace with the Python Data Structures and Algorithms class, which combined with the fact I have no plan on how to attack JavaScript (Q2's language of choice) means I am making a command decision to move that part of my plan into thirds instead of quarters. Hopefully I will be able to move back to quarters at some point, but as of now I'll be booting my Q3 language (Nim) and whatever my Q4 class would have been from this year's plan. 
+It has been even harder to stay on pace with the Python Data Structures and Algorithms class, which combined with the fact I have no plan on how to attack JavaScript (Q2's language of choice) means I am making a command decision to move that part of my plan into thirds instead of quarters. Hopefully I will be able to move back to quarters at some point, but as of now I'll be booting my Q3 language (Nim) and whatever my Q4 class would have been from this year's plan.
 
 All of that said, I think I am getting better and better at writing Python and Pythonic code. I learned how pipenv works, though it was a rather painful experience, and have gotten better at modularizing my own scripts for ease of use and de-bugging. I'm excited to continue getting better and using Python to do more and more cool projects.
 
@@ -32,7 +32,7 @@ Kobe Bryant had a complicated life and legacy, and I leave it to better writers 
 
 ***
 
-Bit more on some of the opportunities from COVID
+Another topic that I'll mostly leave for the better writers, but I want to touch on silver linings for COVID-19. Human innovation has certainly been on display as we fight through the pandemic, in both professional scenarios and the silly ways to survive shelter in place. The environment is enjoying a [respite](https://www.smartcitiesdive.com/news/coronavirus-impact-cities-climate-change-efforts/574450/), [perhaps brief](https://www.bbc.com/future/article/20200326-covid-19-the-impact-of-coronavirus-on-the-environment), that will hopefully remind humanity of the natural beauty around us that we lose through climate change. We may see the beginnings of a universal basic income as we get to the other side of what seems like a defining time in our age. There isn't a lot to look forward to right now, but we should all focus on the [right things](https://www.ziaconsulting.com/community/calm-is-contagious/) and remember energy, even calm energy, is also contagious.
 
 ***
 
