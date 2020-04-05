@@ -13,7 +13,7 @@ Henri Thangorin Stullecker is my fourth Dungeons and Dragons character and is pa
 
 ***
 
-Henri was born in the year (37 years prior to today) to a Drow mother and human father while they were on the road in their traveling troupe. His father, Adrien Stullecker, was 
+Henri was born in the year (37 years prior to today) to a Drow mother and human father while they were on the road in their traveling troupe. His father, Adrien Stullecker, was an oft-leading man and the primary medic for the group, while his mother, Idruith Eldrea, was the main craftswoman and helped barter with taverns when they reached towns. 
 
 ***
 
