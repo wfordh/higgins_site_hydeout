@@ -13,7 +13,7 @@ Henri Thangorin Stullecker is my fourth Dungeons and Dragons character and is pa
 
 ***
 
-backstory
+Henri was born in the year (37 years prior to today) to a Drow mother and human father while they were on the road in their traveling troupe. His father, Adrien Stullecker, was 
 
 ***
 
