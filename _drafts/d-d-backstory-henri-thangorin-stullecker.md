@@ -13,7 +13,9 @@ Henri Thangorin Stullecker is my fourth Dungeons and Dragons character and is pa
 
 ***
 
-Henri was born in the year (37 years prior to today) to a Drow mother and human father while they were on the road in their traveling troupe. His father, Adrien Stullecker, was an oft-leading man and the primary medic for the group, while his mother, Idruith Eldrea, was the main craftswoman and helped barter with taverns when they reached towns. 
+Henri was born in the year (37 years prior to today) to a Drow mother and human father while they were on the road in their traveling troupe. His father, Adrien Stullecker, was a craftsman and the primary medic for the group, while his mother, Idruith Eldrea, was an oft-leading woman and helped barter with taverns when they reached towns. Henri could often be found practicing stage combat with the other children, helping his father with the group's medical needs, or engaging in a battle of wits with his mother.
+
+Unfortunately, an illness swept through the troupe when Henri was 11, killing Adrien and forcing the troupe to disband. Idruith took Henri back to her hometown of Northbury and took a job with a cordwainer as she continued to act at a local theatre.
 
 ***
 
