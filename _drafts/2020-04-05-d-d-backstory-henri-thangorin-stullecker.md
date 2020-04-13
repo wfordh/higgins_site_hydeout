@@ -26,9 +26,9 @@ Part of his motivation to further his studies was gaining access to the librarie
 
 Unfortunately, during a trip to Murk Mellow he received word that his mother was maimed in an accident at the shoe shop that left her unable to walk, and thus unable to act. Guilt-ridden but unwilling to leave his studies, Henri stopped traveling and began splitting his time between Elkavar and Northbury. His work slacked due to the stress, and the university halted his studies, offering him an opportunity to tie up his work and become an individual lecturer (ie he is employed by the university, but teaches and is paid by individual students) instead of full professor.
 
-Henri was walking down a dark, candlelit corridor towards  following a frustrating session with a student 
+After another session with a frustrating student, Henri decided to return to the library to distract himself. He bemoaned the fact that a ne'er-do-well could be accepted into the university solely because of his family's stature and angry with himself that he could not find a way to properly communicate with the student. His research into how language influences learning and his communication with students and patients had taken many turns leading nowhere, and he was eager to channel his irritation at the student into inspiration. As he turned a corner to continue down another candlelit stone corridor, however, the flames guttered and went out. 
 
-Grendulias appears to him to tease a way to 
+The stone walls, now only lit by moonlight, faded and disappeared from view. In their place was a large figure, clothed in a flowing, deep purple robe and blocking the hall
 
 next: skip forward in time to meeting with Grendulias, which occurs while researching his interest in philosophy of language and secrets (or something). This catapults him on the journey, which began \~5 months ago. Despite agnostic life and relative lack of interest in non-healing magic before this, his meeting with Grendulias convinces him of both higher beings and the power of magic, and he feels a pull to discover ??? (whatever Grendulias mentions to him). He is motivated to buy shield, armor, and mace, and draws on his memories stage fighting to inform his now urgent need to wield a weapon.
 
