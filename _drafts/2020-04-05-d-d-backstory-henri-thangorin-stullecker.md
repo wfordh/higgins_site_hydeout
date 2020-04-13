@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'D&D Backstory: Henri Thangorin Stullecker'
-excerpt: ''
-date: 2020-04-05 00:00:00 -0700
+excerpt: History and motivations for Henri as he starts his journey
+date: 2020-04-12 00:00:00 -0700
 last_modified_at: 
 categories:
 - Miscellaneous
