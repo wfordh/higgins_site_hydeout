@@ -4,7 +4,8 @@ title: 'Untitled Poem #1'
 excerpt: Title TBD at a later date
 date: 2020-04-14 00:00:00 -0700
 last_modified_at: 2020-04-14 00:00:00 -0700
-categories: []
+categories:
+- Miscellaneous
 tags: []
 comments: false
 
