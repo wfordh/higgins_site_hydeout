@@ -21,13 +21,14 @@ I think the top options for the A's here are college hitters with tools and, tho
 This leaves me with a handful of options for projecting who the A's will pick:
 
 * Jordan Westburg, SS, Mississippi St
-* Dillon Dingler, C, Ohio St 
+* Dillon Dingler, C, Ohio St
+* Aaron Sabato, 1B, UNC
 * Casey Martin, SS, Arkansas
 * Freddy Zamora, SS, Miami
 * Nick Loftin, SS, Baylor
 * Justin Foscue, 2B/3B, Mississippi St
 
-I think Zamora would be a bit of an overdraft, though they haven't been shy about that in the past (Matt Chapman, Richie Martin, Austin Beck, Kyler Murray, and Addison Russell were all considered reaches to varying degrees). Loftin feels a lot like Chad Pennington, while Westburg has major Logan Davidson vibes. Casey Martin is a tooled-up likely SS who sells out for power, but really struggled to start the year. Dingler is a converted C who doesn't seem likely to reach the A's, despite being defensively focused and robot umps seemingly inevitable. 
+I think Zamora would be a bit of an overdraft, though they haven't been shy about that in the past (Matt Chapman, Richie Martin, Austin Beck, Kyler Murray, and Addison Russell were all considered reaches to varying degrees). Loftin feels a lot like Chad Pennington, while Westburg has major Logan Davidson vibes. Casey Martin is a tooled-up likely SS who sells out for power, but really struggled to start the year. Sabato is a right/right first baseman who has absolutely mashed in his first two years at UNC while showing plate discipline. Dingler is a converted C who doesn't seem likely to reach the A's, despite being defensively focused and robot umps seemingly inevitable. 
 
 There's also a slew of college right handers, and picking from that group is nigh impossible as it will likely come down to a combination of who is available and who the A's were able to see before the shutdown. The list includes, but is not limited to, Slade Cecconi, Bobby Miller, Chris McMahon, Tanner Burns, Carmen Mlodzinski, CJ Van Eyk, and Bryce Jarvis. Personally, Cecconi and Jarvis are the most appealing of that group.
 
