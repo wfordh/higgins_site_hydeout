@@ -5,8 +5,10 @@ excerpt: A preview of the 2020 MLB Draft on June 10, and a look at what might ha
   been in the 2019 MLB Draft
 date: 2020-06-10 00:00:00 -0700
 last_modified_at: 
-categories: []
-tags: []
+categories:
+- Sports
+tags:
+- Baseball
 comments: true
 
 ---
