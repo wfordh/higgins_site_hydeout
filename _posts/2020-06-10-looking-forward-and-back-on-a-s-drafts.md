@@ -3,11 +3,11 @@ layout: post
 title: Looking Forward and Back on A's Drafts
 excerpt: A preview of the 2020 MLB Draft on June 10, and a look at what might have
   been in the 2019 MLB Draft
-date: 
+date: 2020-06-10 00:00:00 -0700
 last_modified_at: 
 categories: []
 tags: []
-comments: false
+comments: true
 
 ---
 The 2020 MLB Draft will start this Wednesday in a modified five round format to account for COVID-19 and its impact on the league. To keep it succinct - I do not think this is in the best long term interests of the sport. Of course, while you have to avoid ruin in the short term to worry about the long term, I don't think the sport of baseball is in any real danger of that (except from the team owners who seem hellbent on falling further behind the NBA and NFL).
