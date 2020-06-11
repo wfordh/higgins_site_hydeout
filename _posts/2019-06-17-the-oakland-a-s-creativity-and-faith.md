@@ -6,7 +6,8 @@ date: 2019-06-18 00:00:00 -0700
 last_modified_at: 
 categories:
 - Sports
-tags: []
+tags:
+- Baseball
 comments: true
 
 ---
