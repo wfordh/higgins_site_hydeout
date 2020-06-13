@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A's Future as Foggy as the Bay
-excerpt: A's were primed - and likely relying on - a big 2020 on and off the field
+excerpt: A's were primed for - and likely relying on - a big 2020 on and off the field
 date: 2020-06-13 00:00:00 -0700
 last_modified_at: 
 categories:
