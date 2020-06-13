@@ -7,7 +7,7 @@ last_modified_at:
 categories:
 - Miscellaneous
 tags: []
-comments: false
+comments: true
 
 ---
 Lights out at eight.  
@@ -41,3 +41,5 @@ To keep moving despite the pain and pass it down to their heirs
 It invigorates me, knowing they press on.  
 Tomorrow, and the next day, and the next, they'll get my energy, until racism is gone.  
 Because for real change, we must go the distance.
+
+_Author's Note: I welcome feedback for this piece, both in terms of the typical "is this poem good" as well as whether or not you think it hits the mark given our current social situation here in the US. Black Lives Matter, and may we all contribute to a better society._ 
