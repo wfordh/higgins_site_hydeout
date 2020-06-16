@@ -27,4 +27,4 @@ These are all questions that should be asked with any proposed rule change or ad
 
 \~ bring it back to the book and wrap up positives and negatives \~
 
-He contends the league should look into ways to optimize play style, which they most assuredly already are, despite it being a very difficult topic to model through measurable data. Analytics are not yet capable of handling questions like that, which is one reason why they have been directed at those that are easy. Namely, that 3 > 2 and that is something that will never change. 
+He contends the league should look into ways to optimize play style, which they most assuredly already are, despite it being a very difficult topic to model through measurable data. Analytics are not yet capable of handling questions like that, which is one reason why they have been directed at those that are easy. Namely, that 3 > 2, which is something that will never change.
