@@ -9,11 +9,13 @@ tags: []
 comments: false
 
 ---
-There's a Q2 Review post sitting in my drafts, but I haven't had the time to finish it and the thoughts motivating this post are sufficiently different to have their own. Perhaps I'll go back and finish it, perhaps not. The last couple of months have been pretty busy, though. My partner and I moved in together this month, so it's been a lot of unpacking things and getting used to being together after spending very little time together before due to social distancing stuff. We went to her hometown for a bit, but are back in the city now. American team sports are back, which means a lot of my time is taken up watching them, for better or worse. And I continue to prioritize things like reading another random book over writing something. 
+There's a Q2 Review post sitting in my drafts, but I haven't had the time to finish it and the thoughts motivating this post are sufficiently different to have their own. Perhaps I'll go back and finish it, perhaps not. The last couple of months have been pretty busy, though. My partner and I moved in together this month, so it's been a lot of unpacking things and getting used to being together after spending very little time together before due to social distancing stuff. We went to her hometown for a bit, but are back in the city now. American team sports are back, which means a lot of my time is taken up watching them, for better or worse. And I continue to prioritize things like reading another random book over writing something.
 
 But the ideas have been swirling around in my head and my hand is forced, so to speak, by some conditions around American sports. The fantasy baseball playoffs are starting up and my fantasy football draft is a week from tomorrow, so it's the best time to try to cram way too much work into too little time and update some tooling. Thankfully this acts as a bit of a forcing function on what work is important and should be prioritized. Let's not waste any of that precious time here and dive right into it.
 
 # Fantasy Baseball
+
+Overall the priority is to get more familiar with the tooling that already exists and integrate it more into my workflow. Pulling the player statistics is most pressing and will be prioritized over the other options like the H2H schedule since it's more of a nice-to-have than a need-to-have.
 
 ## Ottoneu Tools
 
@@ -29,4 +31,8 @@ There's so much great data available in Statcast. Unfortunately, there's no API 
 
 ## FanGraphs Tools
 
-Similarly to Statcast, it's a bit of a pain to get data from FanGraphs. Some functionality can be found in `pybaseball` (and its forks) though I'll need to customize
+Similarly to Statcast, it's a bit of a pain to get data from FanGraphs. Some functionality can be found in `pybaseball` (and its forks) though I'll need to customize in order to scrape the rest of season projections and free agents for my league. It will also be nice to scrape some of the information on THE BOARD, but that's less necessary. 
+
+# Fantasy Football
+
+Regardless of what I find most interesting, the priority for fantasy football is pretty clear thanks to the draft being around the corner. 
