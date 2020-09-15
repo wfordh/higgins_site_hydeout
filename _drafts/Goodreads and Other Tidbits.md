@@ -1,12 +1,13 @@
 ---
 layout: post
-title: ''
+title: Goodreads thoughts plus some tidbits
 excerpt: ''
-date: 
+date: 2020-09-15 00:00:00 -0700
 last_modified_at: 
-categories: []
+categories:
+- Miscellaneous
 tags: []
-comments: false
+comments: true
 
 ---
 I read this [post on fixing Goodreads](https://prepend.com/culture/2020/09/fixing_goodreads.html) over the weekend and followed it up with this [article](https://www.newstatesman.com/science-tech/social-media/2020/08/better-goodreads-possible-bad-for-books-storygraph-amazon) about Goodreads' negative impact on books. I started using Goodreads last year to help me track which books I've read, and while I don't use it for the community at all, the user experience is quite frustrating at times. Things are clunky and not always responsive, and as mentioned in both pieces, the search functionality is _horrendous_. The book I'm searching for will pop up and then disappear if I type another letter, or only return the book if I type out the full title.
@@ -44,3 +45,33 @@ I might try to learn some woodworking stuff sometime. It seems pretty cool, but 
 ***
 
 _Quadratic Wizard_
+
+The quadratic wizard  
+He plays no pinball  
+Nor is he a lizard  
+Knows no _swish and flick_ at all
+
+Searching for the golden equation  
+Looking high and low through the stacks  
+For a book of the right persuasion  
+And give him the knowledge he lacks
+
+The door busts open amidst a shroud of fog  
+An enemy appears, threatening to steal credit  
+A moment of inspiration with no analog  
+He drives back the enemy, crushes it
+
+By throwing the books at hand  
+In wide, arcing parabolas  
+And exclaims "Oh my! It's so grand!  
+I must only find the maxima"
+
+Tumbling down his ladder and over to his desk  
+Writing numbers and symbols  
+His previously solutions all so grotesque  
+Whilst this one looked so nimble
+
+Full of awe, he whispered  
+"That's it - negative b, plus or minus the square root  
+of b squared minus four times a and c  
+all over two times a"
