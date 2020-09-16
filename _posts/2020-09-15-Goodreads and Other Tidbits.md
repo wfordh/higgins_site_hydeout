@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Goodreads thoughts plus some tidbits
-excerpt: ''
+excerpt: Goodreads, what I'm doing, and a silly poem
 date: 2020-09-15 00:00:00 -0700
 last_modified_at: 
 categories:
@@ -27,7 +27,7 @@ Some other things I'm reading:
 * [The Drunkard's Walk](https://www.penguinrandomhouse.com/books/115699/the-drunkards-walk-by-leonard-mlodinow/)
 * [Freiburg: Germany's futuristic city set in a forest](http://www.bbc.com/travel/story/20200715-freiburg-germanys-futuristic-city-set-in-a-forest)
 * [How Big Oil Misled The Public Into Believing Plastic Would Be Recycled](https://www.npr.org/2020/09/11/897692090/how-big-oil-misled-the-public-into-believing-plastic-would-be-recycled)
-* [The Top 1% of Americans Have Taken $50 Trillion From the Bottom 90%—And That's Made the U.S. Less Secure](https://time.com/5888024/50-trillion-income-inequality-america/)
+* [The Top 1% of Americans Have Taken $50 Trillion From the Bottom 90%—And That's Made the U.S. Less Secure](https://time.com/5888024/50-trillion-income-inequality-america/) (still working on this)
 * [Getting ML to Production](https://veekaybee.github.io/2020/06/09/ml-in-prod/)
 
 Not a lot of uplifting stuff in there, though the Freiburg piece was über cool (see what I did there?).
@@ -36,7 +36,7 @@ Not a lot of uplifting stuff in there, though the Freiburg piece was über cool 
 
 What I'm doing:
 
-* Manually filling out my dataset for my NBA salary analysis
+* Manually filling out the rest of my dataset for my NBA salary analysis
 * Working on fantasy sports stuff
 * Finally starting [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 
@@ -54,7 +54,7 @@ Knows no _swish and flick_ at all
 Searching for the golden equation  
 Looking high and low through the stacks  
 For a book of the right persuasion  
-And give him the knowledge he lacks
+To provide the knowledge he lacks
 
 The door busts open amidst a shroud of fog  
 An enemy appears, threatening to steal credit  
