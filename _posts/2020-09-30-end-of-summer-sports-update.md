@@ -1,10 +1,11 @@
 ---
 layout: post
 title: End of Summer Sports Update
-excerpt: ''
-date: 
+excerpt: State of sports in my life and tidbits
+date: 2020-09-30 00:00:00 -0700
 last_modified_at: 
-categories: []
+categories:
+- Miscellaneous
 tags: []
 comments: false
 
@@ -27,7 +28,7 @@ Now he'll be matched up against a fierce competitor in Butler and old foe Andre 
 
 # Fantasy Football
 
-Fantasy football is in full swing and my team is _hurting_. Saquon is done for the season and my running back group is, um, subpar. Myles Gaskin is now my RB1 and my depth is being tested every week. I think I'll get my first win of the season this week and maybe [win a side bet, too](https://twitter.com/wfordh/status/1310435261881360384), but it's not looking good long term. I want to swing some trades, but have not really found any takers. This week it'll be attempting to get off of Jared Cook and maybe AJ Green, and potentially selling high on Keenan Allen.
+Fantasy football is in full swing and my team is _hurting_. Saquon is done for the season and my running back group is, um, subpar. Myles Gaskin is now my RB1 and my depth is being tested every week. I got my first win of the season this week and [won a side bet, too](https://twitter.com/wfordh/status/1310435261881360384), but it's not looking good long term. I swung a trade - gave up Tyler Lockett for Terry McLaurin and Darrell Henderson, but only one other team owner is engaging much at all. I also picked up Tee Higgins and Justin Jefferson, and might try to get Laviska Shenault for that rookie receiver squad. 
 
 # Premier League
 
@@ -42,3 +43,25 @@ We have yet to really see Ziyech, Chilwell, and new goalie Mendy out of the big 
 I'm very excited to see the whole team fit, especially with how Pulisic might fit in once he's healthy, but the season will likely again come down to how the team is able to defend.
 
 # Odds & Ends
+
+I have officially made the most progress on [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) yet, and it's going well and I'm excited to keep going. I had made good progress on my NBA salaries work, but managed to overwrite the data _again_. It really takes the wind out of you, though at least some of the finished work can be used to make redoing the rest of it easier.
+
+I made millet pecan muffins from the [Cheeseboard cookbook](https://www.penguinrandomhouse.com/books/198225/the-cheese-board-collective-works-by-cheese-board-collective-staff/) last weekend and they turned out great - especially considering it was my first time making muffins from scratch! 
+
+## What I'm Reading
+
+* As I said, Bayesian Methods for Hackers, though I'm not sure a textbook should count...
+* [How to Do Nothing](https://bookshop.org/books/how-to-do-nothing-resisting-the-attention-economy/9781612197494) - really enjoying this book so far
+* ProPublica's [climate](https://features.propublica.org/climate-migration/model-how-climate-refugees-move-across-continents/) [change](https://www.propublica.org/article/climate-change-will-force-a-new-american-migration) features
+
+I will be spending the holidays at my parents' home and in this pandemic that means being there for pretty much two whole months. I've got a rough reading list for those two months, but need to cut it down to size:
+
+* Snow Crash by Neil Stephenson
+* Titus Groan by Mervyn Peake (this is a need to finish)
+* East of Eden by John Steinbeck
+* Stamped from the Beginning by Ibram X. Kendi (if it ever arrives in the mail)
+* Heart of Darkness by Joseph Conrad
+* Go Tell It on the Mountain by James Baldwin
+* One of my books by Jacques Barzun
+* The Census Taker by China Mieville
+* The Logic of Scientific Discovery by Karl Popper
