@@ -6,6 +6,7 @@ date: 2020-10-08 00:00:00 -0700
 last_modified_at: 
 categories:
 - Miscellaneous
+- Sports
 tags: []
 comments: true
 
