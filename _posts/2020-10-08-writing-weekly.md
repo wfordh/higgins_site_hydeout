@@ -4,9 +4,9 @@ title: Am I...writing weekly?
 excerpt: Is this happening?
 date: 2020-10-08 00:00:00 -0700
 last_modified_at: 
-categories: []
-tags:
-- Sports
+categories:
+- Miscellaneous
+tags: []
 comments: true
 
 ---
