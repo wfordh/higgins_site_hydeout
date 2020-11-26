@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Whatever is Next
-excerpt: ''
+title: What Comes Next?
+excerpt: Upcoming job hunt, personal projects, and D&D characters
 date: 
 last_modified_at: 
 categories: []
@@ -19,7 +19,7 @@ The first one pulls all of the user's scores from the previous weeks and calcula
 
 The second one is meant to help with waivers and finding players to add/drop. Unfortunately, Sleeper has restricted access to their stats projections at the behest of their stats provider, so I'm currently pulling in Numberfire's projections. The script pulls in all of the free agents and rostered players in our league, adds the projections, and then compares the free agents to the players on my roster to see which players have better rest of season projections than those on my roster.
 
-There are some additions I'd like to make to each script to make them more comprehensive, but now that the first iterations are off the ground, I think I'll try to wrap up some other projects.
+There are some additions I'd like to make to each script to make them more comprehensive, but now that the first iterations are off the ground, I think I'll get through the next chunk of work for my NBA salaries project.
 
 ***
 
