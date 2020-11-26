@@ -17,9 +17,15 @@ I have worked on a couple different [fantasy football tools](https://twitter.com
 
 The first one pulls all of the user's scores from the previous weeks and calculates and "expected" record / win percentage based on how many teams each team would have beaten that week. It's a simple way to keep the context of the weekly scores and seasonality of the NFL, but make the records independent of the weekly matchups. On top of that, it provides a rest of season strength of schedule for each team by averaging their remaining opponents' expected win percentage.
 
-The second one is meant to help with waivers and finding players to add/drop. Unfortunately, Sleeper has restricted access to their stats projections at the behest of their stats provider, so I'm currently pulling in Numberfire's projections. The script pulls in all of the free agents and rostered players in our league, add the projections, and then compares the free agents to the players on my roster to see which players have better rest of season projections than those on my roster.
+The second one is meant to help with waivers and finding players to add/drop. Unfortunately, Sleeper has restricted access to their stats projections at the behest of their stats provider, so I'm currently pulling in Numberfire's projections. The script pulls in all of the free agents and rostered players in our league, adds the projections, and then compares the free agents to the players on my roster to see which players have better rest of season projections than those on my roster.
 
-d&d pally/warlock
+There are some additions I'd like to make to each script to make them more comprehensive, but now that the first iterations are off the ground, I think I'll try to wrap up some other projects.
+
+***
+
+One of my friends went on a spree of D&D multi-class character ideas the other week, which inspired me to do that myself. As he said, why work on your current character when you can make infinite more? My next idea is a paladin / warlock combination that I think could have a pretty intriguing backstory and arc. 
+
+***
 
 What I'm Reading
 
