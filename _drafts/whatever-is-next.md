@@ -23,7 +23,7 @@ There are some additions I'd like to make to each script to make them more compr
 
 ***
 
-One of my friends went on a spree of D&D multi-class character ideas the other week, which inspired me to do that myself. As he said, why work on your current character when you can make infinite more? My next idea is a paladin / warlock combination that I think could have a pretty intriguing backstory and arc. The idea is a holy warrior who gets corrupted and serves an underworld being who grants him access to dark magic previously unbeknownst to him.
+One of my friends went on a spree of D&D multi-class character ideas the other week, which inspired me to do that myself. As he said, why work on your current character when you can make infinite more? My next idea is a paladin / warlock combination that I think could have a pretty intriguing backstory and arc. The idea is a holy warrior who gets corrupted and serves an underworld being who grants him access to dark magic previously unbeknownst to him. Although it's the same as my current character, a drow half-elf is probably the best race for the character because the stat modifiers line up and the drow heritage and associated stereotypes can be leveraged
 
 ***
 
