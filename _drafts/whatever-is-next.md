@@ -13,7 +13,7 @@ Last week I was [laid off](https://twitter.com/wfordh/status/1329887120148852744
 
 ***
 
-I have worked on a couple different [fantasy football tools](https://twitter.com/wfordh/status/1331394026357010433) to help me in addition to reading FantasyPros and The Athletic articles. I was able to get both of them off the ground before the season ended, which is pretty exciting considering I've had an awkward habit of not finishing these sorts of things until after the season. They are both command line Python scripts that take a couple of arguments and then print out some JSON blobs of information to the terminal. Neither one is very complicated and they mainly leverage the [Sleeper API](https://docs.sleeper.app/) to get the league information. It's really helpful that Sleeper has all of that data available, and there's even a [Python wrapper](https://pypi.org/project/sleeper-api-wrapper/) to the API, though it looks like it hasn't been updated in a while. 
+I have worked on a couple different [fantasy football tools](https://twitter.com/wfordh/status/1331394026357010433) to help me in addition to reading FantasyPros and The Athletic articles. I was able to get both of them off the ground before the season ended, which is pretty exciting considering I've had an awkward habit of not finishing these sorts of things until after the season. They are both command line Python scripts that take a couple of arguments and then print out some JSON blobs of information to the terminal. Neither one is very complicated and they mainly leverage the [Sleeper API](https://docs.sleeper.app/) to get the league information. It's really helpful that Sleeper has all of that data available, and there's even a [Python wrapper](https://pypi.org/project/sleeper-api-wrapper/) to the API, though it looks like it hasn't been updated in a while.
 
 The first one pulls all of the user's scores from the previous weeks and calculates and "expected" record / win percentage based on how many teams each team would have beaten that week. It's a simple way to keep the context of the weekly scores and seasonality of the NFL, but make the records independent of the weekly matchups. On top of that, it provides a rest of season strength of schedule for each team by averaging their remaining opponents' expected win percentage.
 
@@ -23,7 +23,7 @@ There are some additions I'd like to make to each script to make them more compr
 
 ***
 
-One of my friends went on a spree of D&D multi-class character ideas the other week, which inspired me to do that myself. As he said, why work on your current character when you can make infinite more? My next idea is a paladin / warlock combination that I think could have a pretty intriguing backstory and arc. 
+One of my friends went on a spree of D&D multi-class character ideas the other week, which inspired me to do that myself. As he said, why work on your current character when you can make infinite more? My next idea is a paladin / warlock combination that I think could have a pretty intriguing backstory and arc. The idea is a holy warrior who gets corrupted and serves an underworld being who grants him access to dark magic previously unbeknownst to him.
 
 ***
 
