@@ -25,7 +25,7 @@ There are some additions I'd like to make to each script to make them more compr
 
 One of my friends went on a spree of D&D multi-class character ideas the other week, which inspired me to do that myself. As he said, why work on your current character when you can make infinite more? My next idea is a paladin / warlock combination that I think could have a pretty intriguing backstory and arc. The idea is a holy warrior who gets corrupted and serves an underworld being who grants him access to dark magic previously unbeknownst to him. Although it's the same as my current character, a drow half-elf is probably the best race for the character because the stat modifiers line up with the classes and the drow heritage and associated stereotypes can be leveraged for the corruption backstory.
 
-The narrative fits nicely with taking paladin for the first two levels and get the dueling fighting style to bolster the physical attacks. The third level would be my first in warlock, where you immediately take your otherworldly patron, and follow that up with taking my third paladin level and with it the Oathbreaker sacred oath. For storytelling purposes, 
+The narrative fits nicely with taking paladin for the first two levels and get the dueling fighting style to bolster the physical attacks. The third level would be my first in warlock, where you immediately take your otherworldly patron, and follow that up with taking my third paladin level and with it the Oathbreaker sacred oath and fully revealing that my allegiance has switched to a fiend of the underworld. 
 
 ***
 
