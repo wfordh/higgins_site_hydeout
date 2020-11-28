@@ -4,9 +4,11 @@ title: What Comes Next?
 excerpt: Upcoming job hunt, personal projects, and D&D characters
 date: 2020-11-27 21:00:00 -0800
 last_modified_at: 
-categories: []
-tags:
+categories:
 - Miscellaneous
+tags:
+- D&D
+- Fantasy Football
 comments: true
 
 ---
