@@ -2,14 +2,15 @@
 layout: post
 title: What Comes Next?
 excerpt: Upcoming job hunt, personal projects, and D&D characters
-date: 
+date: 2020-11-27 21:00:00 -0800
 last_modified_at: 
 categories: []
-tags: []
-comments: false
+tags:
+- Miscellaneous
+comments: true
 
 ---
-Last week I was [laid off](https://twitter.com/wfordh/status/1329887120148852744) from [Scoop](https://www.linkedin.com/feed/update/urn:li:activity:6737089974644158464/). It sucks that our country has handled the pandemic so poorly that many things are not even close to normal. The state of things certainly impacted Scoop, especially as a transportation company, and of course impacted me. I really enjoyed my time at Scoop and in particular my analytics teammates. We were a model team and the camaraderie we had is not something I'll forget soon. In fact, it might make my next job that much tougher because it will be measured against such a high standard. Anyway, enough of that as everyone has their own horror stories from 2020.
+Last week I was [laid off](https://twitter.com/wfordh/status/1329887120148852744) from [Scoop](https://www.linkedin.com/feed/update/urn:li:activity:6737089974644158464/). It sucks that our country has handled the pandemic so poorly that many things are not even close to normal. The state of things certainly impacted Scoop, especially as a transportation company, and of course impacted me. I really enjoyed my time at Scoop and in particular my analytics teammates. We were a great team and the camaraderie we had is not something I'll forget soon. In fact, it might make my next job that much tougher because it will be measured against such a high standard. Anyway, enough of that as everyone has their own horror stories from 2020.
 
 ***
 
@@ -27,7 +28,7 @@ One of my friends went on a spree of D&D multi-class character ideas the other w
 
 The narrative fits nicely with taking paladin for the first two levels and get the dueling fighting style to bolster the physical attacks. The third level would be my first in warlock, where you immediately take your otherworldly patron, and follow that up with taking my third paladin level and with it the Oathbreaker sacred oath and fully revealing that my allegiance has switched to a fiend of the underworld.
 
-The last question for the character is where to start their stats - do I go all out for dexterity and charisma or try to balance it out a bit more?
+It should be a fun character, though it all depends on my ability to channel going through all of that and becoming a twisted, somewhat evil character. It's a new challenge and I haven't gone the evil route with any of my characters - in D&D or really any other games. I think the character could really thrive in the right setting, though, and hopefully I can provide updates on him at some point!
 
 ***
 
