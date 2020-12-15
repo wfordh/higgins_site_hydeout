@@ -15,3 +15,4 @@ What I'm Reading
 * [Bayesian Plus-Minus](https://nbviewer.ipython.org/github/EvanZ/ppl-pm/blob/main/xpm.ipynb) by Evan Zamir
 * [Basketball Meditation](https://www.poetryfoundation.org/harriet/2008/09/basketball-meditation) by Wanda Coleman
 * [How the World Works](https://www.theatlantic.com/magazine/archive/1993/12/how-the-world-works/305854/) by James Fallows
+* [Data Science is Different](https://veekaybee.github.io/2019/02/13/data-science-is-different/) by Vicky Boykis (have read before and probably will again)
