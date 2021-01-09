@@ -13,4 +13,27 @@ The calendar has technically flipped over to 2021, but it sure doesn't feel like
 
 All of that is to say that 2021 has already been emotionally draining and likely will continue to be even after Biden takes over the Oval Office and the vaccine starts reaching the masses. My siblings and I did drive back to the Bay Area safely after spending the holidays with our parents, and while travel is generally not recommended, we did it about as safely as possible. I'll have a more whimsical post recapping our drive back up soon to pair with [my earlier one](https://fordhiggins.com/miscellaneous/2020/11/12/cross-country-part-1.html).
 
-Considering all of that, what is my plan for 2021? It will be different in some ways than other years thanks to our new normal, but in many ways it will contain the same type of things. Read this, learn that. Try a few new things and keep doing others. One difference for this year is that instead of making explicit goals and working my way towards them
+Considering all of that, what is my plan for 2021? It will be different in some ways than other years thanks to our new normal, but in many ways it will contain the same type of things. Read this, learn that. Try a few new things and keep doing others. One difference for this year is that instead of making explicit project goals and working my way towards them, my goals will be building habits. The aim is that through establishing these habits, the work necessary to finish projects, learn new skills, etc etc will flow more freely and provide momentum for the future.
+
+The inspiration for this was simply an idea to write for 30 minutes every day. It doesn't matter what or how I write - it can be poetry, code, analysis, updates, narrative, or even outlines and written in a notebook or on a computer - as long as it gets done. By forcing myself to produce content, I should make progress on some of the larger ideas that I have stashed in a backlog because I will eventually get bored of writing silly update pieces and dive deeper. Not all of it will be published, either, but some of it will make it to the light of day and my editing should improve as well. 
+
+Besides writing for 30 minutes a day, my other ideas are:
+
+* Practice Italian every day: Most likely done through Duolingo, but also through TV / movies / music.
+* Bake a non-trivial recipe once a month: Basically not brownies from a mix and stuff like that.
+* Cook a non-trivial recipe once a week: Basically not just throwing some veggies, meat and grain together in a bowl.
+* Exercise every day: At a minimum, this means 30 pushups or squats to start and work from there.
+* Read a book every day: I am specifying book because I read plenty of stuff online, though I would like to make a dent in my massive backlog of online articles, papers, etc.
+* Visit Twitter max once a day: I simply do not need to be on the platform as much as I have been at times.
+* Get outside once a day: This is particularly important given the state of the world. It's easy to finish the day and suddenly realize you haven't been outside at all. Fresh air is good so I want to make sure I get it.
+
+Of course, I had projects in mind when I thought of these goals. I'd like to dunk again, just like last year's goal. Finish some online courses, which although that doesn't fit neatly into a particular goal, goes along with some of the themes. Write programs and continue building an infrastructure of tools and models. Share more of what I write. Converse with someone in Italian. Be confident in my skills. Read more great books and because that is one I can't help myself with, the preliminary reading list for this year contains the rest of the Gormenghast trilogy, starting Foundation, Fall of Hyperion, finishing Stamped from the Beginning, Bird by Bird, Braiding Sweetgrass, Canticle for Leibowitz, Snow Crash, Tanking to the Top, All We Can Save, The Baron in the Trees, and others.
+
+There is also a chance that all of this planning goes to ruin tomorrow when my partner arrives back in San Francisco with our new 10 week old puppy. Pictures coming soon to a [Twitter account](twitter.com/wfordh) near you.
+
+***
+
+What I'm Reading
+
+* [2020 Letter](https://danwang.co/2020-letter/) by Dan Wang
+* 
