@@ -1,10 +1,11 @@
 ---
 layout: post
 title: New Year, New Anything?
-excerpt: ''
+excerpt: Ideas for the "new" year
 date: 2021-01-08 00:00:00 -0800
 last_modified_at: 
-categories: []
+categories:
+- Miscellaneous
 tags: []
 comments: false
 
