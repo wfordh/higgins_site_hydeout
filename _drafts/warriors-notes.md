@@ -1,17 +1,18 @@
 ---
 layout: post
-title: Warriors Notes
-excerpt: ''
-date: 
+title: Warriors Wariness
+excerpt: A quick look at the Warriors season and outlook
+date: 2021-01-18 00:00:00 -0800
 last_modified_at: 
-categories: []
+categories:
+- Sports
 tags: []
-comments: false
+comments: true
 
 ---
 The Golden State Warriors are off to an interesting start to an interesting season. They have looked terrible for times and awesome during other stretches while having one of the least disrupted seasons thus far in terms of COVID. Putting aside questions of whether or not the NBA should even be playing right now, how are they looking so far and what might they do in the future, which means keeping the critiques of past roster decisions to a minimum.
 
-They're sitting at 6-6 right now after last night's loss to Denver, which would put them in the play-in tournament if the season were to end today. However, they are sitting at [22nd in net rating](https://www.nba.com/stats/teams/advanced/?sort=NET_RATING&dir=-1) and aren't looking particularly deep after a couple of injuries. Let's start at the top of the roster though - Steph is generally doing Steph things, especially since Draymond returned. His shooting percentages are slightly down from his peak so far, but he has silenced the early critics after a few hot shooting nights. More than that, the rest of the team is starting to conform to his identity, which I think is due in large part to Draymond's return. Green provides another like minded player on the floor who is not afraid to get in anyone's face and has the credentials to back it up. He keeps both the ball and other players moving, which goes hand in hand with Curry's aesthetic.
+They're sitting at 6-6 right now after their loss to Denver, which would put them in the play-in tournament if the season were to end today. However, they are sitting at [22nd in net rating](https://www.nba.com/stats/teams/advanced/?sort=NET_RATING&dir=-1) and aren't looking particularly deep after a couple of injuries. Let's start at the top of the roster though - Steph is generally doing Steph things, especially since Draymond returned. His shooting percentages are slightly down from his peak so far, but he has silenced the early critics after a few hot shooting nights. More than that, the rest of the team is starting to conform to his identity, which I think is due in large part to Draymond's return. Green provides another like minded player on the floor who is not afraid to get in anyone's face and has the credentials to back it up. He keeps both the ball and other players moving, which goes hand in hand with Curry's aesthetic.
 
 The other players are gaining more comfort with this style, which is quite unlike most NBA and even college offenses. It's free flowing for the most part and Curry's talent forces his teammates to make snap decisions to screen, cut, or pass the ball in moments that simply don't happen elsewhere. There have already been many instances where Steph motions frantically for a player to set a screen for him to pop to the corner after giving the ball up, but the screen comes too late and Steph does not get open.
 
@@ -29,9 +30,11 @@ What does all of this have to do with Wiggins? He's the youngest and least "core
 
 Speaking of the draft, the 2021 one is shaping up to be as advertised and very good at the top. However, the Warriors draft record is spotty for the last few years. Their 2019 draft night remains one of their bigger disappointments in my opinion - imagine if they had taken Keldon Johnson or traded the pick for [four second rounders](https://www.hoopsrumors.com/2019/06/cavs-to-acquire-no-30-draft-kevin-porter-jr.html) instead of taking Jordan Poole? And remember that they only picked Paschall at number 41 after they were forced to [trade for the 39th pick](https://www.hoopsrumors.com/2019/06/warriors-acquire-no-39-pick-select-smailagic.html) in order to pick Alen Smailagic, who they had telegraphed their interest in for weeks. It's especially disconcerting after news the Warriors project Smailagic to become the [next Ersan Ilyasova, Steve Novak, or Davis Bertans](https://www.sfchronicle.com/warriors/article/Inside-Warriors-plan-to-make-Alen-Smailagic-15793220.php) - all great shooters and excelling at different types of shot making - despite being a career 66% foul shooter and 29% three point shooter, showing a lack of awareness by the organization.
 
+It all combines to make this team interesting in a way they weren't during their peak years and could shine a light on the organization's capabilities, goals, and limitations. If the year does not go smoothly, then fan criticism could increase to levels not seen since [Lacob was booed](https://www.youtube.com/watch?v=mbij4VY6UiE) during Chris Mullins' jersey retirement. But if things go right, then they could make a playoff run and get momentum going for a potentially very bright future.
+
 ***
 
 What I'm Reading
 
-* [Are Millenials Learning to Outsource their Adulthood?](https://www.thecut.com/2019/04/are-millennials-learning-to-outsource-their-adulthood.html)
+* [Are Millenials Learning to Outsource their Adulthood?](https://www.thecut.com/2019/04/are-millennials-learning-to-outsource-their-adulthood.html) - especially fascinating considering how the pandemic has increased usage of delivery services
 * [Big Tech's Loudest Climate Advocate has a Fossil Fuel Problem](https://heated.world/p/big-techs-loudest-climate-advocate)
