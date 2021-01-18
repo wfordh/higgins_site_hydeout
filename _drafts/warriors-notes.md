@@ -27,6 +27,8 @@ Wiggins may be the key for this team, both this season and moving forward, becau
 
 What does all of this have to do with Wiggins? He's the youngest and least "core" member of the high salary group and there's a good chance the Warriors will be adding a top five and top 20 pick in the 2021 draft. In my view, that means something has to give and Wiggins seems the most likely current player to be shipped out. The main variables are how Wiggins plays and where the draft picks fall. If Wiggins plays well and is considered something of an asset with only two years left on his deal, then perhaps they can trade him straight up for some rotation level players who are less burdensome salary cap wise. If he doesn't and ownership wants to lessen the tax bill, then the Warriors might have to attach the Timberwolves' 2021 first round pick to him. This is all complicated by the situation with the picks: the Timberwolves' pick is protected in slots one through three in the 2021 draft and unprotected in 2022, and their own 2021 first rounder is protected for slots one through 20 from the Thunder. There's certainly a chance the Warriors possess neither pick for the 2021 draft. If Wiggins plays well, then maybe ownership decides to commit to him as the bridge between eras. The point is his season and status within the organization could be a harbinger of things to come and is worth keeping tabs on heading into the draft.
 
+Speaking of the draft, the 2021 one is shaping up to be as advertised and very good at the top. However, I wonder how that 
+
 ***
 
 What I'm Reading
