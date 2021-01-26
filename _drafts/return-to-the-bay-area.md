@@ -9,13 +9,7 @@ tags: []
 comments: false
 
 ---
-* license plates
-* winter storm
-* nat'l parks
-* transitioning cow
-* water rankings
-* podcast
-* mlb showdown bot
+My siblings and I did the return trip to California after the holidays and made it, though not without adventure thanks to a winter storm in Texas.
 
 # The Planning
 
@@ -39,13 +33,13 @@ Soon we crossed the California / Arizona border and were back in our home state,
 
 We left our AirBNB and its maskless, "unicorn blood" having host early the next morning so we could see plenty of Joshua Tree before our final stretch back to the Bay Area. Our destination in the park was the Hidden Valley trail and we arrived to a parking lot full of souped up, giant camper vans and a single Rolls Royce SUV, which was a bit of a surprise. The valley has a slightly different ecosystem than other parts of the park due to the surrounding rocks that make it hidden, which also attract a lot of rock climbers. My brother somehow managed to cut open his hand on a yucca plant on the hike, but otherwise it was serene, allowed us to go at our own pace, and avoid other large groups. After that we attempted to do the Hall of Horrors hike, but couldn't figure out where the hall was or why it was a horror and decided to hit the road before wasting too much time.
 
-Our route home took us through the Tehachapi Mountains on CA-58 and they were quite beautiful and unexpected, though the drive was uneventful. We did see a man with the misfortune of having to use an interstate call box, which I hadn't seen in ages. The rest of the drive up I-5 was easy and we stopped for some well-deserved In-n-Out on the way before arriving back in San Francisco with the car in one piece and the soft top container still attached. 
+Our route home took us through the Tehachapi Mountains on CA-58 and they were quite beautiful and unexpected, though the drive was uneventful. We did see a man with the misfortune of having to use an interstate call box, which I hadn't seen in ages. The rest of the drive up I-5 was easy and we stopped for some well-deserved In-n-Out on the way before arriving back in San Francisco with the car in one piece and the soft top container still attached.
 
 # Entertainment
 
-We played the license plate game again and (fill in here). Our other primary entertainment was listening to the "Winds of Change" podcast investigating whether or not the Scorpions' international hit "Wind of Change" was written by the CIA. It was a good podcast, entertaining and thought provoking at times, though it also made you wonder what world the host, Patrick Radden Keefe, and his friend, Michael Shtender-Auerbach, who put him up to this live in. There was a bit of self-reflection about the podcast at the end after an interview with Klaus Meine, the lead singer of the Scorpions and the writer of Wind of Change, about who this podcast was benefiting, who it made look good, etc. Personally I try not to think too much about things like what the CIA may or may not have done, especially when wrapped up in conspiracies and hearsay like this was, but it was fun to dip my toes into that world via this podcast for a bit.
+We played the license plate game again and saw 40 different states, with the northeast once again proving difficult. Our other primary entertainment was listening to the "Winds of Change" podcast investigating whether or not the Scorpions' international hit "Wind of Change" was written by the CIA. It was a good podcast, entertaining and thought provoking at times, though it also made you wonder what world the host, Patrick Radden Keefe, and his friend, Michael Shtender-Auerbach, who put him up to this live in. There was a bit of self-reflection about the podcast at the end after an interview with Klaus Meine, the lead singer of the Scorpions and the writer of Wind of Change, about who this podcast was benefiting, who it made look good, etc. Personally I try not to think too much about things like what the CIA may or may not have done, especially when wrapped up in conspiracies and hearsay like this was, but it was fun to dip my toes into that world via this podcast for a bit.
 
-Unfortunately, we did not see any transitioning cows.
+Unfortunately, we did not see any [transitioning cows](https://fordhiggins.com/miscellaneous/2020/11/12/cross-country-part-1.html).
 
 # Water Rankings
 
@@ -56,12 +50,6 @@ Unfortunately, we did not see any transitioning cows.
 3\. Sweetwater, TX
 
 4\. Cathedral City, CA
-
-# License Plates
-
-We only saw 40 different state license plates on this drive, with the northeast once again proving to be the most difficult region. 
-
-Missing: Alaska, Maine, New Hampshire, Rhode Island, North Dakota, Idaho, Missouri, New Jersey
 
 Next:
 
