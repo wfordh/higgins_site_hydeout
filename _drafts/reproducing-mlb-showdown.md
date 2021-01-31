@@ -33,17 +33,18 @@ keep or cut app??
 
 ***
 
-Reading:
+###### What I'm Reading
 
-\- shreya shankar predictive modeling
+* [Predictive Modeling: A Retrospective](https://www.shreya-shankar.com/8d5c6ec070babe7c23d3d5b68384a8bd/retrospective.pdf)
+* [The High Price of Mistrust](https://fs.blog/2021/01/mistrust/)
+* NDSP [Intro](https://docs.google.com/document/d/1afi_eUP8nMuD969-oO5wN0B400YdMuYxw_lcavIGrSE/edit) & [1](https://docs.google.com/document/d/1MuWbRZ0VYvy4x25kWuJBFa7dzSBYUR2d33w1PtYDEd8/edit) by [PD Web](https://twitter.com/abovethebreak3)
+* [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) 
 
-\- fs blog mistrust
+***
 
-\- notes on camp
+###### What's Next
 
-\- ndsp pdweb
-
-Next:
+* 
 
 \- salaries writeup
 
