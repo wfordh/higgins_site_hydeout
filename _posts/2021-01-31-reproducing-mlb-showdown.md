@@ -4,9 +4,10 @@ title: 'Reproducing MLB Showdown '
 excerpt: Capturing nostalgia and satisfying curiosities with the help of a bot
 date: 2021-01-31 00:00:00 -0800
 last_modified_at: 
-categories: []
+categories:
+- Sports
 tags: []
-comments: false
+comments: true
 
 ---
 My brother and I played [MLB Showdown](https://showdowncards.com/) a lot growing up, contributing to my interest in the intersection of sports and numbers. We actively played it even after Wizards of the Coast discontinued it after only six years and went so far as producing our own set of cards one year. Unfortunately, it is pretty time intensive to create a full set of cards and it's hard to know if you did a good job, however that's defined. I made an effort to test how faithful cards would be to real baseball with a basic simulation a couple years ago (oof that code), but struggled to figure out assigning on base / out combinations for hitters. I endeavored to do this so I could make historical Showdown cards for players who had an anomalously good season, were Hall of Famers or Hall of Very Good-ers, or were notable for some other reason. These player seasons have always been out of reach and after the holidays I decided to try translating arbitrary seasons to Showdown's context yet again.
@@ -23,14 +24,6 @@ It's a really neat project from both a practical and technical standpoint, thoug
 
 The next step of turning it into a functional game is a much larger project though, and would require both more time and better coding skill than I probably have. Until that happens, we'll make do with the cards we have and continue searching for the most unusual cards, learning random baseball facts along the way. After all, Showdown bot has taken out the hardest parts of playing games with any card ever. I'm looking forward to searching for the right cards to build a team capable of crushing my brother's, which is what this is all about.
 
-regularization in bayesian methods??
-
-homology to detect holes in a defense?
-
-drafts as multi-armed bandit?
-
-keep or cut app??
-
 ***
 
 ###### What I'm Reading
@@ -38,20 +31,14 @@ keep or cut app??
 * [Predictive Modeling: A Retrospective](https://www.shreya-shankar.com/8d5c6ec070babe7c23d3d5b68384a8bd/retrospective.pdf)
 * [The High Price of Mistrust](https://fs.blog/2021/01/mistrust/)
 * NDSP [Intro](https://docs.google.com/document/d/1afi_eUP8nMuD969-oO5wN0B400YdMuYxw_lcavIGrSE/edit) & [1](https://docs.google.com/document/d/1MuWbRZ0VYvy4x25kWuJBFa7dzSBYUR2d33w1PtYDEd8/edit) by [PD Web](https://twitter.com/abovethebreak3)
-* [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) 
+* [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 
 ***
 
 ###### What's Next
 
-* 
-
-\- salaries writeup
-
-\- BMH ch 7
-
-\- ottoneu tool - gmail part and getting stats
-
-\- sports & goodhart's law
-
-\- once done with BMH, then unit testing?
+* Finishing Bayesian Methods for Hackers - only one chapter left and would like to do a small project with what I've learned afterwards
+* Write up my initial work with compiling NBA salaries
+* Ottoneu [auction tool](https://github.com/wfordh/mlb_showdown/blob/master/ottoneu_tools/active_auctions.py): I'm almost done with a v0, but need to figure out how to serve it daily so it's of actual use. Related to that, I'm working to contribute to the [pybaseball](https://github.com/jldbc/pybaseball) package.
+* Sports in society, particularly with respect to the environment and Goodhart's Law
+* Once I finish Bayesian stuff, I'll learn more about unit testing and typing in Python
