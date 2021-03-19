@@ -25,7 +25,7 @@ Unfortunately joining those two data sources was not the easiest, due to differi
 
 ## Analysis
 
-My initial goal for 
+The initial analysis was to create a salary equivalent to the player aging curve to capture the idea of a "prime" in terms of money and more directly address how salary fits into player and team evaluation discussions. While I was successful in creating such a curve for each of the Guard, Forward, and Center positions, the utility of the curves as is not very high yet due to the lack of metadata and the static position labels. 
 
 # Conclusion
 
