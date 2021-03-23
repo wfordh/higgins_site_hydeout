@@ -48,4 +48,4 @@ Improvements to the data set are clearly needed for it to become more useful, in
 
 ## Other uses
 
-As mentioned earlier, salary data can be used as an additional dimension for a whole host of analyses. Most of the existing research uses salary and all in one metrics such as RAPM to see if offense or defense is rewarded more often and which players are overpaid or bargains based on the stat and their contract. I'd like to fold it in to team building analysis to see how successful teams are built, trace the pathways stars take, and see how skills or roles get paid. 
+As mentioned earlier, salary data can be used as an additional dimension for a whole host of analyses. Most of the existing research uses salary and all in one metrics such as RAPM to see if offense or defense is rewarded more often and which players are overpaid or bargains based on the stat and their contract. I'd like to fold it in to team building analysis to see how successful teams are built, trace the pathways stars take, and see how skills or roles get paid.
