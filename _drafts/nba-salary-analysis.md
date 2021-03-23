@@ -40,18 +40,12 @@ The age curves are not quite as useful as I hoped, they line up with expectation
 
 # Next Steps
 
-The analysis fell short in a couple of ways, but luckily the avenues of improvement are not
+The analysis fell short in a couple of ways, but luckily areas for improvement are not lacking and relatively clear, at least for the end goal.
 
 ## Direct data set
 
-Improvements to the data set are clearly needed for it to become more useful, including updating it to include the most recent seasons, which will also be the easiest improvement. The other dimension to add is contract metadata such as type of contract (max, rookie, etc), length, and which CBA it was signed under. 
-
-    	More metadata, ie type of contract (max, rookie, etc) and CBA signed under
-
-Years in league instead of age
+Improvements to the data set are clearly needed for it to become more useful, including updating it to include the most recent seasons, which will also be the easiest improvement. The other dimension to add is contract metadata such as type of contract (max, rookie, etc), length, and which CBA it was signed under. All of this information would make it easier to categorize and segment the contracts for more appropriate analysis on how it impacts player salaries. Added a feature for years spent in the league would also be useful since that plays into several different types of contracts and impacts how a player's salary might differ from his cap hit.
 
 ## Other uses
 
-    	Connect to RAPM
-    
-    	Connect to team building
+As mentioned earlier, salary data can be used as an additional dimension for a whole host of analyses. Most of the existing research uses salary and all in one metrics such as RAPM to see if offense or defense is rewarded more often and which players are overpaid or bargains based on the stat and their contract. I'd like to fold it in to team building analysis to see how successful teams are built, trace the pathways stars take, and see how skills or roles get paid. 
