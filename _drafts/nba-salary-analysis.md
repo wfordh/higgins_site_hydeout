@@ -1,12 +1,13 @@
 ---
 layout: post
 title: NBA Salary Analysis
-excerpt: ''
+excerpt: Analyzing NBA player salaries from 1990 to 2019 by position, age, height,
+  and weight
 date: 2021-03-23 00:00:00 -0700
 last_modified_at: 
 categories: []
 tags: []
-comments: false
+comments: true
 
 ---
 # Motivation
