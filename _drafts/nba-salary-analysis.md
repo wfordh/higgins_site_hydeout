@@ -39,6 +39,8 @@ The age curves are not quite as useful as I hoped, they line up with expectation
 
 # Next Steps
 
+The analysis fell short in a couple of ways, but luckily the avenues of improvement are not
+
 ## Direct dataset
 
 		More years
