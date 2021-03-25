@@ -46,6 +46,8 @@ The analysis fell short in a couple of ways, but luckily areas for improvement a
 
 Improvements to the data set are clearly needed for it to become more useful, including updating it to include the most recent seasons, which will also be the easiest improvement. The other dimension to add is contract metadata such as type of contract (max, rookie, etc), length, and which CBA it was signed under. All of this information would make it easier to categorize and segment the contracts for more appropriate analysis on how it impacts player salaries. Added a feature for years spent in the league would also be useful since that plays into several different types of contracts and impacts how a player's salary might differ from his cap hit.
 
+\*look at last contract before out of league
+
 ## Other uses
 
 As mentioned earlier, salary data can be used as an additional dimension for a whole host of analyses. Most of the existing research uses salary and all in one metrics such as RAPM to see if offense or defense is rewarded more often and which players are overpaid or bargains based on the stat and their contract. I'd like to fold it in to team building analysis to see how successful teams are built, trace the pathways stars take, and see how skills or roles get paid.
