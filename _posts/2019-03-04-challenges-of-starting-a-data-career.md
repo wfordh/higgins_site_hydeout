@@ -3,11 +3,11 @@ layout: post
 title: Challenges of Starting a Data Career
 excerpt: ''
 date: 2019-03-03 00:00:00 -0800
-last_modified_at: ''
+last_modified_at: 
 categories:
 - Miscellaneous
 tags: []
-comments: false
+comments: true
 
 ---
 I recently read an article on the state of data science and advice on how to enter and succeed in the field which really hit home. A large chunk of the article, [Data science is different now by Vicki Boykis](https://veekaybee.github.io/2019/02/13/data-science-is-different/), is devoted to the oversaturation of the market for data scientists (especially when that is the specific job title), misconceptions about the daily duties of the job, and how those things relate to her path. I can't yet speak to any misconceptions about daily duties as a data scientist, in part to not having that title and in part to having just started my first job in the tech industry. However, I can relay my experiences with the oversaturation of the market and how I see my own way forward.

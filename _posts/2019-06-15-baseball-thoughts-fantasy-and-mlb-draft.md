@@ -6,8 +6,9 @@ date: 2019-06-15 00:00:00 -0700
 last_modified_at: 
 categories:
 - Sports
-tags: []
-comments: false
+tags:
+- Baseball
+comments: true
 
 ---
 The MLB season is over one third of the way done and the draft is right around the corner. I'm a pretty big follower of prospects in general, both draft and in the minor leagues, so I'm always interested to see how it plays out. Of course, the draft is also big for the A's considering they aren't a big spending team. They also have the specter of the failed Kyler Murray pick hanging over this draft.

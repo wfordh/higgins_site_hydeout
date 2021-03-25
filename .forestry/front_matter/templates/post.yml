@@ -45,8 +45,33 @@ fields:
   description: Active if you want to allow comments (this option is only available
     if you've set Disqus up in your Site Configuration)
 pages:
-- _posts/ruminations-on-basketball.md
-- _posts/2019-06-17-the-oakland-a-s-creativity-and-faith.md
-- _posts/2019-06-15-baseball-thoughts-fantasy-and-mlb-draft.md
 - _posts/2019-01-18-2019-s-to-do-list.md
 - _posts/2019-03-04-challenges-of-starting-a-data-career.md
+- _posts/2019-06-15-baseball-thoughts-fantasy-and-mlb-draft.md
+- _posts/2019-06-17-the-oakland-a-s-creativity-and-faith.md
+- _posts/2019-09-24-ruminations-on-basketball.md
+- _posts/2020-01-17-year-in-review-2019.md
+- _posts/2020-01-24-2020-s-to-do-list.md
+- _posts/2020-04-02-a-quarter-gets-its-update.md
+- _posts/2020-04-05-d-d-backstory-henri-thangorin-stullecker.md
+- _posts/2020-06-10-looking-forward-and-back-on-a-s-drafts.md
+- _posts/2020-06-13-a-s-future-as-foggy-as-the-bay.md
+- _posts/2020-07-18-review-of-sprawlball.md
+- _posts/2020-09-15-Goodreads and Other Tidbits.md
+- _posts/2020-09-30-end-of-summer-sports-update.md
+- _posts/2020-10-08-writing-weekly.md
+- _posts/2020-10-21-sports-sports-sports-10-20.md
+- _posts/2020-11-12-cross-country-part-1.md
+- _posts/2020-11-27-whatever-is-next.md
+- _posts/2021-01-03-idk-het.md
+- _posts/2021-01-08-new-year-new-anything.md
+- _posts/2021-01-19-warriors-notes.md
+- _posts/2021-01-25-return-to-the-bay-area.md
+- _posts/2021-01-31-reproducing-mlb-showdown.md
+- _posts/2021-03-23-nba-salary-analysis.md
+- _posts/a-note-in-the-fog.md
+- _posts/curfew.md
+- _posts/q2-review.md
+- _posts/the-monk-his-garden.md
+- _posts/untitled-poem-1.md
+- _posts/whatever-s-next.md
