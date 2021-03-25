@@ -34,9 +34,9 @@ In addition to player age, I wanted to compare average salaries to player height
 
 # Conclusion
 
-The salary cap is a crucial part of the NBA, but one that remains a bit mysterious due to its built up rules from years of patching up whatever issues pop up during the course of the last CBA. It also falls through the cracks of most statistical analyses as they tend to  focus on the on-court product or evaluating roster decisions from events such as the trade deadline or the draft. Though this project was a bit laborious with the data acquisition and cleaning, it was rewarding. The data set will add another set of dimensions to cut analyses by and I think there is more juice to squeeze from the data as more metadata is added.
+The salary cap is a crucial part of the NBA, but one that remains a bit mysterious due to years of patchwork rules fixing whatever issues popped up during the previous CBA. It also falls through the cracks of most statistical analyses as they tend to focus on the on-court product or evaluating roster decisions from events such as the trade deadline or the draft. This project will hopefully help fill that gap and, though it was a bit arduous with the data acquisition and cleaning, it was rewarding. The data set adds another set of dimensions to cut analyses by and I think there is more juice to squeeze from the data as more metadata is added.
 
-The age curves are not quite as useful as I hoped, they line up with expectations and the supplementary curves for height, weight, and BMI are also useful. They are some of the first things we learn about players - well, not BMI - and it's good to see how they might inform players' salaries.
+This analysis itself was not quite as useful as I hoped, though the age curves line up with expectations and the supplementary curves for height, weight, and BMI are also useful. They are some of the first things we learn about players - well, not BMI - and it's good to see how they might inform players' salaries.
 
 # Next Steps
 
