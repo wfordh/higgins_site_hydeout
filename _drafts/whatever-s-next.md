@@ -12,13 +12,15 @@ comments: false
 ---
 ProtonVPN, job update, pupdate, gormenghast, planning trips, brackets, being sick & vaccines, 
 
+Things have been a little crazy around here recently and what time I have has been devoted to several projects, so I haven't written in a while. 
+
 What I'm Doing
 
 * [MIT's Missing Semester of CS](https://missing.csail.mit.edu/2020/)
 * Learning JavaScript!
 * Contributing to pybaseball
 * Making an [Ottoneu Auctions tool](https://wfordh.github.io/ottoneu_auctions/)
-* Shiny App
+* [G League DRE Shiny app](https://fordhiggins.shinyapps.io/dre_app/)
 
 What I'm Reading
 
