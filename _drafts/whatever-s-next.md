@@ -12,7 +12,9 @@ comments: false
 ---
 ProtonVPN, job update, pupdate, gormenghast, planning trips, brackets, being sick & vaccines, 
 
-Things have been a little crazy around here recently and what time I have has been devoted to several projects, so I haven't written in a while. 
+Things have been a little crazy around here recently and what time I have has been devoted to several projects, so I haven't written in a while. I want to get back to it and it seems like a summary is the best way to get writing again, so here goes. 
+
+I am back to the job search after the part time job I was at ended up not being the fit for me, but it's been tough to get it going. I'm certainly waiting a little bit on a potential opportunity to work again for my manager from Scoop, but I was also feeling under the weather for a couple weeks and did not want to be interviewing with a cough and sore throat. 
 
 What I'm Doing
 
