@@ -18,7 +18,7 @@ I am back to the job search after the part time job I was at ended up not being 
 
 Besides that it's been a lot of planning trips to Mendocino, Seattle, and Hawaii, watching the wild men's NCAA Tournament, reading Gormenghast, taking care of our pup Jasper, and working on personal projects. 
 
-I also got a VPN and opted for ProtonVPN over OpenVPN.
+I also got a VPN and opted for ProtonVPN over OpenVPN, which I had actually used before with Tunnelblick. ProtonVPN seemed to have a simpler setup and it was easy to download and get going immediately. It's the first time I've used a VPN for myself and not for business, so I went for the free version and so far it seems to work well and fits my needs. 
 
 What I'm Doing
 
