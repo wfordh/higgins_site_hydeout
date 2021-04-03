@@ -1,16 +1,16 @@
 ---
 layout: post
-title: whatever's next
+title: Whatever is Next
 excerpt: It has been a while since I posted so this post will mostly be a summary
   of what's been going on plus links
-date: 2021-03-23T00:00:00.000-07:00
+date: 2021-04-03 00:00:00 -0700
 last_modified_at: 
 categories: []
 tags: []
-comments: false
+comments: true
 
 ---
-ProtonVPN, job update, pupdate, gormenghast, planning trips, being sick & vaccines,
+# Hectic Weeks
 
 Things have been a little crazy around here recently and what time I have has been devoted to several projects, so I haven't written in a while. I want to get back to it and it seems like a summary is the best way to get writing again, so here goes.
 
@@ -20,16 +20,16 @@ Besides that it's been a lot of planning trips to Mendocino, Seattle, and Hawaii
 
 I also got a VPN and opted for ProtonVPN over OpenVPN, which I had actually used before with Tunnelblick. ProtonVPN seemed to have a simpler setup and it was easy to download and get going immediately. It's the first time I've used a VPN for myself and not for business, so I went for the free version and so far it seems to work well and fits my needs.
 
-What I'm Doing
+## What I'm Doing
 
-* [MIT's Missing Semester of CS](https://missing.csail.mit.edu/2020/)
-* Learning JavaScript!
-* Contributing to pybaseball
-* Making an [Ottoneu Auctions tool](https://wfordh.github.io/ottoneu_auctions/)
-* [G League DRE Shiny app](https://fordhiggins.shinyapps.io/dre_app/)
+* [MIT's Missing Semester of CS](https://missing.csail.mit.edu/2020/): I've gotten blocked on doing the Vim exercises for lecture 3 just with other stuff coming up, but it's been really great so far. It's well structured and the instructors are great. Hopefully I'll get back on track soon since the rest of the lectures seem really awesome.
+* Learning JavaScript by using the new [sportsdataverse](https://www.npmjs.com/package/sportsdataverse) package in an attempt to build a KenPom / barttorvik / herhoopstats style page for D3 hoops. I have never used JS before this, so it's certainly a steep learning curve.
+* Contributing to [pybaseball](https://github.com/jldbc/pybaseball) through adding Statcast leaderboard functions where possible
+* Making an [Ottoneu Auctions tool](https://wfordh.github.io/ottoneu_auctions/) that is currently blocked by a bug in pybaseball, which is a little funny. 
+* [G League DRE Shiny app](https://fordhiggins.shinyapps.io/dre_app/): Basically just putting previous work into a Shiny app. I had never used Shiny before this and was pleasantly surprised that everyone who always says it's super easy to use weren't lying!
 
-What I'm Reading
+## What I'm Reading
 
-* Clay Shirky [Group](https://www.gwern.net/docs/technology/2005-shirky-agroupisitsownworstenemy.pdf)
-* [Consider the Quasi-Commune](https://annehelen.substack.com/p/consider-the-quasi-commune) by Anne Helen
+* Clay Shirky's [A Group is Its Own Worst Enemy](https://www.gwern.net/docs/technology/2005-shirky-agroupisitsownworstenemy.pdf)
+* [Consider the Quasi-Commune](https://annehelen.substack.com/p/consider-the-quasi-commune) by Anne Helen - this blog links to several other pieces that I really enjoyed, so highly recommend it!
 * [PD Web's Patreon](https://www.patreon.com/user?u=24373441)
