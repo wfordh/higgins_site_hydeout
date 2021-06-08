@@ -10,7 +10,7 @@ tags: []
 comments: false
 
 ---
-It's been a while since I've written anything, so figured a link dump of what I've been enjoying would be a good way to get back on track. The links will encompass articles, podcasts, and whatever else merits being passed along.
+It's been a while since I've written anything, so figured a link dump of what I've been enjoying would be a good way to get back on track. We'll see if it works. The links will encompass articles, podcasts, and whatever else merits being passed along.
 
 # Podcasts / Videos
 
