@@ -2,9 +2,10 @@
 layout: post
 title: May 2021 Links & Reading
 excerpt: A bunch of links to media I've consumed over the past month or so
-date: 
+date: 2021-06-08 00:00:00 -0700
 last_modified_at: 
-categories: []
+categories:
+- Miscellaneous
 tags: []
 comments: false
 
