@@ -6,7 +6,8 @@ excerpt: It has been a while since I posted so this post will mostly be a summar
 date: 2021-04-03 00:00:00 -0700
 last_modified_at: 
 categories: []
-tags: []
+tags:
+- Miscellaneous
 comments: true
 
 ---
