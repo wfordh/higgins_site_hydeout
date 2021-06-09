@@ -7,7 +7,7 @@ last_modified_at:
 categories:
 - Miscellaneous
 tags: []
-comments: false
+comments: true
 
 ---
 It's been a while since I've written anything, so figured a link dump of what I've been enjoying would be a good way to get back on track. We'll see if it works. The links will encompass articles, podcasts, and whatever else merits being passed along.
