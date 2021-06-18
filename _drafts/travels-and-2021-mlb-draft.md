@@ -17,6 +17,10 @@ My partner and I recently traveled to Seattle and then Hawai'i. It was my first 
 
 ## Seattle
 
+We flew up to Seattle - my first time flying since pre-pandemic - and it was a whirlwind trip. I got to see some friends from college as well as my brother and his partner while staying in the cute West Seattle neighborhood. I really enjoyed the scenery all over the city
+
+[Un Bien](https://www.unbienseattle.com/)
+
 ## Hawai'i
 
 # 2021 MLB Draft
