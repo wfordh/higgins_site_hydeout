@@ -17,9 +17,11 @@ My partner and I recently traveled to Seattle and then Hawai'i. It was my first 
 
 ## Seattle
 
-We flew up to Seattle - my first time flying since pre-pandemic - and it was a whirlwind trip. I got to see some friends from college as well as my brother and his partner while staying in the cute West Seattle neighborhood. I really enjoyed the scenery all over the city
+We flew up to Seattle - my first time flying since pre-pandemic - and it was a whirlwind trip. I got to see some friends from college as well as my brother and his partner while staying in the cute West Seattle neighborhood. I really enjoyed the nature and scenery all over the city
 
 [Un Bien](https://www.unbienseattle.com/)
+
+[Thai Tom](https://www.yelp.com/biz/thai-tom-seattle)
 
 ## Hawai'i
 
@@ -40,8 +42,8 @@ I've had a harder time zeroing in prospects in the A's range that are favorites 
 
 * Love: Trey Sweeney, Will Taylor, Harry Ford
 * Like: Michael McGreevy, Carson Williams, Jud Fabian, Will Bednar, Izaac Pacheco, Gage Jump
-* Fine: Jay Allen, Aaron Zavala, Ryan Cusick, Alex Binelas, Lonnie White Jr., 
+* Fine: Jay Allen, Aaron Zavala, Ryan Cusick, Alex Binelas, Lonnie White Jr.,
 
-Some others that I wouldn't expect to be the first round pick, but could be around in the second are Davis Diaz, Thatcher Hurd, Josh Hartle, Ryan Bliss, James Wood, Edwin Arroyo, Ky Bush, and Doug Nikhazy, among others. I'll probably post a list of all the guys I'm higher on than consensus at some point, as well as a consensus board made from ones posted online. 
+Some others that I wouldn't expect to be the first round pick, but could be around in the second are Davis Diaz, Thatcher Hurd, Josh Hartle, Ryan Bliss, James Wood, Edwin Arroyo, Ky Bush, and Doug Nikhazy, among others. I'll probably post a list of all the guys I'm higher on than consensus at some point, as well as a consensus board made from ones posted online.
 
-One last note is that the A's scouts definitely deserve some credit, at least for the Soderstrom pick last year. He's been absolutely killing it. Logan Davidson is more of a mixed bag, getting a 50 from [MLB Pipeline](https://www.mlb.com/prospects/athletics/logan-davidson-669722), a 45 from [Prospects Live](https://www.prospectslive.com/lists/2021/2/14/oakland-athletics-2021-prospect-rankings), and a [40 from FanGraphs](https://www.fangraphs.com/prospects/the-board/2021-prospect-list/summary?sort=-1,1&team=oak). He seems sure to stick at SS despite Nick Allen's presence and he's been better of late in Double-A Midland where he's 1.2 years younger than the average player in the league and having only played in short season ball before this year thanks to the pandemic. However, wood bats seem to sap all power from him, which could result in a walk-driven profile despite his 6'3" 215 lb frame. 
+One last note is that the A's scouts definitely deserve some credit, at least for the Soderstrom pick last year. He's been absolutely killing it. Logan Davidson is more of a mixed bag, getting a 50 from [MLB Pipeline](https://www.mlb.com/prospects/athletics/logan-davidson-669722), a 45 from [Prospects Live](https://www.prospectslive.com/lists/2021/2/14/oakland-athletics-2021-prospect-rankings), and a [40 from FanGraphs](https://www.fangraphs.com/prospects/the-board/2021-prospect-list/summary?sort=-1,1&team=oak). He seems sure to stick at SS despite Nick Allen's presence and he's been better of late in Double-A Midland where he's 1.2 years younger than the average player in the league and having only played in short season ball before this year thanks to the pandemic. However, wood bats seem to sap all power from him, which could result in a walk-driven profile despite his 6'3" 215 lb frame.
