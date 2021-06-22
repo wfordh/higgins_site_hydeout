@@ -23,6 +23,8 @@ The food and drinks were delicious, too, though we had a terrible brunch at Easy
 
 ## Hawai'i
 
+We took a trip to the Big Island with my partner's family and it was incredible. Her family has two young children in it so we largely did our own thing during the day and met back up with them in the evening. 
+
 # 2021 MLB Draft
 
 This is shaping up to be a weird draft thanks to all the oddities caused by the pandemic. There are some solid players in it, but this year does seem a bit weaker at the top than other years. In my unprofessional eyes, the top players in the draft are:
