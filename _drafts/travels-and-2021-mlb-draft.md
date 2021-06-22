@@ -17,7 +17,9 @@ My partner and I recently traveled to Seattle and then Hawai'i. It was my first 
 
 ## Seattle
 
-We flew up to Seattle - my first time flying since pre-pandemic - and it was a whirlwind trip. I got to see some friends from college as well as my brother and his partner while staying in the cute West Seattle neighborhood. I enjoyed the scenery and nature across the city as we visited Seward Park, Gas Works, the Ballard Locks, and several neighborhoods. 
+We flew up to Seattle - my first time flying since pre-pandemic - and it was a whirlwind trip. I got to see some friends from college as well as my brother and his partner while staying in the cute West Seattle neighborhood. I enjoyed the scenery and nature across the city as we visited Seward Park, Gas Works, the Ballard Locks, and several neighborhoods. We saw the city skyline at night and Bainbridge Island at dusk from West Seattle, and in the city we would turn a corner and see the surrounding mountains and lakes.
+
+The food and drinks were delicious, too, though we had a terrible brunch at Easy Street Records despite maybe seeing Sue Bird walk past (it was tough to tell with the masks). 
 
 [Un Bien](https://www.unbienseattle.com/)
 
