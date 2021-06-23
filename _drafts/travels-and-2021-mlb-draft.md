@@ -23,7 +23,7 @@ The food and drinks were delicious, too, though we had a terrible brunch at Easy
 
 ## Hawai'i
 
-We took a trip to the Big Island with my partner's family and it was incredible. Her family has two young children in it so we largely did our own thing during the day and met back up with them in the evening. 
+We took a trip to the Big Island with my partner's family and it was incredible. Her family has two young children in it so we largely did our own thing during the day and met back up with them in the evening. But wow did we ever do our own things, driving nearly 500 miles and seeing most of the island in just four days. We didn't see the green sands beach on the southern tip of the island, but saw black sand beaches, Waipi'o Valley, Volcanoes National Park, Captain Cook's Monument, Hilo, Kona, Akaka Falls, and a few smaller beaches.
 
 # 2021 MLB Draft
 
@@ -40,9 +40,9 @@ After that it isn't super clear to me - I'm not a big fan of Jordan Lawler and a
 
 I've had a harder time zeroing in prospects in the A's range that are favorites than is typical, but I bucketed some players based on how I'd feel if the A's drafted them.
 
-* Love: Trey Sweeney, Will Taylor, Harry Ford
-* Like: Michael McGreevy, Carson Williams, Jud Fabian, Will Bednar, Izaac Pacheco, Gage Jump
-* Fine: Jay Allen, Aaron Zavala, Ryan Cusick, Alex Binelas, Lonnie White Jr.,
+* Love: Will Taylor, Harry Ford
+* Like: Trey Sweeney, Michael McGreevy, Carson Williams, Jud Fabian, Will Bednar, Izaac Pacheco, Gage Jump
+* Fine: Jay Allen, Aaron Zavala, Ryan Cusick, Alex Binelas, Lonnie White Jr., Tyler Black
 
 Some others that I wouldn't expect to be the first round pick, but could be around in the second are Davis Diaz, Thatcher Hurd, Josh Hartle, Ryan Bliss, James Wood, Edwin Arroyo, Ky Bush, and Doug Nikhazy, among others. I'll probably post a list of all the guys I'm higher on than consensus at some point, as well as a consensus board made from ones posted online.
 
