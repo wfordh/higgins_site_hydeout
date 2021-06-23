@@ -21,9 +21,13 @@ We flew up to Seattle - my first time flying since pre-pandemic - and it was a w
 
 The food and drinks were delicious, too, though we had a terrible brunch at Easy Street Records despite maybe seeing Sue Bird walk past (it was tough to tell with the masks). The highlight of the trip was [Un Bien](https://www.unbienseattle.com/), a Caribbean sandwich spot that I would love to get again so I can explore more of the menu. I would also recommend [Thai Tom](https://www.yelp.com/biz/thai-tom-seattle) in the University District, Nouveau Bakery, and Olympia Coffee.
 
+One random thing that stood out to me in Seattle was how odd the streets were with small lettering for the directions on the pavement such as "Do Not Stop" and the weirdest intersections. My brother's partner said the latter was due to overlapping grids from different city planners, but it still felt wild and a bit dangerous. 
+
 ## Hawai'i
 
-We took a trip to the Big Island with my partner's family and it was incredible. Her family has two young children in it so we largely did our own thing during the day and met back up with them in the evening. But wow did we ever do our own things, driving nearly 500 miles and seeing most of the island in just four days. We didn't see the green sands beach on the southern tip of the island, but saw black sand beaches, Waipi'o Valley, Volcanoes National Park, Captain Cook's Monument, Hilo, Kona, Akaka Falls, and a few smaller beaches.
+We took a trip to the Big Island with my partner's family and it was incredible. Her family has two young children in it so we largely did our own thing during the day and met back up with them in the evening. But wow did we ever do our own things, driving nearly 500 miles and seeing most of the island in just four days. We didn't see the green sands beach on the southern tip of the island, but saw black sand beaches, Waipi'o Valley, Volcanoes National Park, Captain Cook's Monument, Hilo, Kona, Akaka Falls, and a few smaller beaches. 
+
+Our first day we walked through lava rock fields and past beaches near the resort before driving up to Waimea for coffee and lunch on our way to Waipi'o Valley. We got [Waimea Coffee Company's](https://www.waimeacoffeecompany.com/) special of the day - a delicious white chocolate macchiato if my memory serves - and split a pork chop plate from a place across the street. From there we drove up to Waipi'o Valley where there are some beautiful views of the valleys as they stretch towards the ocean. The steepness of the valley walls was astounding and while we didn't go down into them, they reminded me of a tropical version of the calanques we saw in Cassis, France. After taking in the beauty of nature and all 
 
 # 2021 MLB Draft
 
