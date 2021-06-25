@@ -33,7 +33,7 @@ The next day was filled with driving as we went across the island to first hike 
 
 Snorkeling at Captain Cook came next and it was another first time experience for me. It is so weird going underwater and breathing through the snorkel for the first time - I felt like I was going to suffocate initially, but then air came through and everything was fine. Going underwater and seeing all of the fish swimming around was so peaceful and I could've stayed there for hours just watching them move about the coral. Not all of the animal activity was below the surface though as we watched four goats maneuver their way up the almost cliff face by the water.
 
-Our last full day was dedicated to food and wow did the Big Island ever come through! We had pretty good food and drinks throughout our vacation with some super fresh and tasty poke, Kona coffees, shave ice, and beer from Big Island and Ola Brewing, but the last day blew the rest out of the water for me. 
+Our last full day was dedicated to food and wow did the Big Island ever come through! We had pretty good food and drinks throughout our vacation with some super fresh and tasty poke, Kona coffees, shave ice, and beer from Big Island and Ola Brewing, but the last day blew the rest out of the water for me. My friend Ravi recommended Broke Da Mouth Grindz in Kona and we got 
 
 # 2021 MLB Draft
 
