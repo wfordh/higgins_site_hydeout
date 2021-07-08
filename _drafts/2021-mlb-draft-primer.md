@@ -23,6 +23,8 @@ College rest of the way with one or two high school hitters and one high school 
 
 I compiled the rankings from FanGraphs, Baseball America, Keith Law at the Athletic, Kiley McDaniel at ESPN, Prospects Live, MLB Pipeline, Mason McRae, and Brian Recca into a consensus board. Yes, some of these are behind a paywall, but I only took the rankings and not the blurbs. I also really wish I could pay a smaller fee for just the rankings instead of monthly or yearly subscriptions. The only missing rankings are Baseball Prospectus's Top 50 and Perfect Game's Top 400, though PG's most recent list is from January and therefore out of date now.
 
+Need to add: [JeffMLBDraft](https://mlbdraftnow.blogspot.com/)
+
 # My Favorites
 
 Simply put, players I like more than most of the other lists.
