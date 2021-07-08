@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Travels and 2021 MLB Draft
-excerpt: ''
+excerpt: Trips to Seattle, Hawai'i and early thoughts on the MLB Draft
 date: 2021-06-17 00:00:00 -0700
 last_modified_at: 
 categories: []
@@ -35,7 +35,9 @@ Snorkeling at Captain Cook came next and it was another first time experience fo
 
 Our last full day was dedicated to food and wow did the Big Island ever come through! We had pretty good food and drinks throughout our vacation with some super fresh and tasty poke, Kona coffees, shave ice, and beer from Big Island and Ola Brewing, but the last day blew the rest out of the water for me. My friend Ravi recommended Broke Da Mouth Grindz in Kona and we got garlic furikake chicken and kalua pork with rice and a lychee lemonade, and it lived up to its name. It really felt like my taste buds were broken by how delicious and flavorful everything was in that meal. The meat was cooked and spiced phenomenally, and the lychee added another level to the lemonade. 
 
-We followed it up by walking over to a coffee shop where I ordered an ube latte. I haven't had a ton of ube things before, but have liked them every time - the ube tortilla from Señor Sisig was clutch - and decided to take the risk. The color of the drink was striking as the purple ube sat on top of the light brown latte and slowly seeped down into the coffee as they mixed. 
+We followed it up by walking over to a coffee shop where I ordered an [ube latte at HiCO](https://hicohawaiiancoffee.com/pages/menu). I haven't had a ton of ube things before, but have liked them every time - the ube tortilla from Señor Sisig was clutch - and decided to take the risk. The color of the drink was striking as the purple ube sat on top of the light brown latte and slowly seeped down into the coffee as they mixed. The flavors were similarly impressive and it may be my favorite coffee drink ever.
+
+It was a great first experience in Hawai'i and I'm definitely looking forward to going again sometime and exploring more like the green sand beaches on the southern part of Big Island or checking out one of the other islands.
 
 # 2021 MLB Draft
 
