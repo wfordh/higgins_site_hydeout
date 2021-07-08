@@ -5,7 +5,9 @@ excerpt: Trips to Seattle, Hawai'i and early thoughts on the MLB Draft
 date: 2021-06-17 00:00:00 -0700
 last_modified_at: 
 categories: []
-tags: []
+tags:
+- Miscellaneous
+- Sports
 comments: false
 
 ---
