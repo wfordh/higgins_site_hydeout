@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2021 MLB Draft Primer
+title: 2021 MLB Draft Review
 excerpt: ''
 date: 2021-07-09 00:00:00 -0700
 last_modified_at: 
