@@ -2,7 +2,7 @@
 layout: post
 title: 2021 MLB Draft Review
 excerpt: ''
-date: 2021-07-09 00:00:00 -0700
+date: 2021-07-14 00:00:00 -0700
 last_modified_at: 
 categories: []
 tags: []
@@ -13,9 +13,9 @@ After waiting an extra month this year, the draft has finally happened! I'll go 
 
 # Consensus Board
 
-I compiled the rankings from FanGraphs, Baseball America, Keith Law at the Athletic, Kiley McDaniel at ESPN, Prospects Live, MLB Pipeline, Mason McRae, and Brian Recca into a consensus board. Yes, some of these are behind a paywall, but I only took the rankings and not the blurbs. I also really wish I could pay a smaller fee for just the rankings instead of monthly or yearly subscriptions. The only missing rankings are Perfect Game's Top 400, though their most recent list is from January and therefore out of date now.
+I compiled the rankings from FanGraphs, Baseball America, Keith Law at the Athletic, Kiley McDaniel at ESPN, Prospects Live, MLB Pipeline, Baseball Prospectus (partial), [Jeff Ellis](https://mlbdraftnow.blogspot.com/2021/07/final-big-board-mlb-draft-2021.html), [Mason McRae](https://docs.google.com/spreadsheets/d/1MrXLOukRj_7ft2OALM8np4HemcIB9IyJ40yP4bfXXcY/edit#gid=641465746), [Michael Cook](https://mlbdrafthq.wordpress.com/2021/07/11/2021-mlb-draft-top-400-5-prospects/), and [Brian Recca](https://t.co/L12yHwXxnq?amp=1) into a consensus board. Yes, some of these are behind a paywall, but I only took the rankings and not the blurbs. I also really wish I could pay a smaller fee for just the rankings instead of monthly or yearly subscriptions. The only missing rankings are Perfect Game's Top 400, though their most recent list is from January and therefore out of date now.
 
-Need to add: [JeffMLBDraft](https://mlbdraftnow.blogspot.com/)
+The consensus board can be found [here](https://docs.google.com/spreadsheets/d/1AEH4jEIZ_ShZjjbiW8vWb12YjNxqNj5M3OuvEFt-sgA/edit#gid=724638619).
 
 # Oakland Recap
 
