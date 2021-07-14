@@ -29,4 +29,58 @@ Overall it's an interesting group and the A's stuck to their m.o. by prioritizin
 
 # My Favorites
 
-Simply put, players I like more than most of the other lists.
+Simply put, players I like more than most of the other lists with brief reasons and a round range for when I would pick them. Any of the high schoolers that aren't picked or don't sign will be priority follows for their respective drafts.
+
+Carson Williams (SS / RHP) - two way player, young, up the middle. Top 20 overall.
+
+Edwin Arroyo (SS) - switch hitter AND thrower, young, up the middle. Comp round A.
+
+Joe Mack (C) - up the middle, multi-sport athlete (volleyball). Round 1.
+
+Kahlil Watson (SS) - 5th on consensus board but 2nd or 3rd on mine. Top 3.
+
+Trey Sweeney (SS) - up the middle, insane performance. Top 20 overall.
+
+Ryan Holgate (OF) - good data. Round 2.
+
+Gunnar Hoglund (RHP) - would've still had him top 12 even with TJS. Top 12.
+
+Josh Hartle (LHP) - young, lefty, from NC (Bumgarner, Gore, Walston...). Pulled out of draft to attend Wake Forest. Round 1 - comp round A.
+
+Ben Ramirez (IF) - versatile, solid bat. Later round target. Round 11+.
+
+Coleman Willis (RHP) - frame, youngish. Went unpicked and will attend UGA. Round 3-5.
+
+Gage Jump (LHP) - young, pitch data. Will likely head to UCLA. Round 1.
+
+Ky Bush (LHP) - West Coast, lefty, big body. Round 2.
+
+Michael McGreevy (RHP) - control, young, performer. Round 1.
+
+Davis Diaz (SS / C) - up the middle, young, Bay Area. Round 2-3.
+
+Dylan Smith (RHP) - young, SEC performer. Comp round A - round 2.
+
+Jay Allen (OF) - multi-sport (football, basketball). Round 1.
+
+Will Taylor (OF) - multi-sport (wrestling, track, football). Round 1.
+
+Jacen Roberson (CF) - up the middle, solid performance. Round 11+
+
+Caleb Roberts (C / OF) - maybe a catcher, good plate discipline at big school. Round 3-5.
+
+Gavin Conticello (3B) - lefty, left side of infield, power. Round 3-5.
+
+Ryan Bliss (SS) - SEC performer. Round 2
+
+Blake Dunn (OF) - multi-sport (football, track, basketball). Round 11+.
+
+TJ White (OF) - young, power. Round 4-6.
+
+Thaddeus Ector (OF) - young, switch hitter, athlete. Round 6-10.
+
+Brennon McNair (SS) - multi-sport (football), student body president, valedictorian, up the middle, two way player. Round 6-10
+
+Wyatt Hendrie (C / OF) - plate discipline, good athlete for C. Round 6-10
+
+Kevin Bazzell (C) - young, up the middle, bat speed. Round 6-10
