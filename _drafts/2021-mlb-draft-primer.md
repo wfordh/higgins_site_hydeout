@@ -30,7 +30,7 @@ Overall it's an interesting group and the A's stuck to their m.o. by prioritizin
 
 # My Favorites
 
-Simply put, players I like more than most of the other lists with brief reasons and a round range for when I would pick them. Any of the high schoolers that aren't picked or don't sign will be priority follows for their respective drafts.
+Simply put, players I like more than most of the other lists with brief reasons and a round range for when I would pick them. Any of the high schoolers that aren't picked or don't sign will be priority follows for their respective drafts. While I'm still not a scout, I'm much more confident with hitters than with pitchers.
 
 Carson Williams (SS / RHP) - two way player, young, up the middle. Top 20 overall.
 
