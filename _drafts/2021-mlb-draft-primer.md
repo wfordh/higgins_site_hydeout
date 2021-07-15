@@ -1,11 +1,12 @@
 ---
 layout: post
 title: 2021 MLB Draft Review
-excerpt: ''
+excerpt: Consensus board. Oakland's draft. Personal favorites.
 date: 2021-07-14 00:00:00 -0700
 last_modified_at: 
 categories: []
-tags: []
+tags:
+- Sports
 comments: false
 
 ---
