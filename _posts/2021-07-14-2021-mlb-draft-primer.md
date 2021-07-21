@@ -26,7 +26,7 @@ In general the A's really focused on the West Coast in the top 10 rounds, with o
 
 Rounds 11 through 20 saw the A's pick bigger bodied pitchers with 8 of their 10 picks, with the only two position players being Jonny "Barrels" Butler from NC State and Mariano Ricciardi - J.P. Ricciardi's son - from Dayton. Butler, Rivera, and Mitch Myers are the most interesting from this group.
 
-Overall it's an interesting group and the A's stuck to their m.o. by prioritizing up the middle position players and jumbo pitchers with a mix that skews towards college players, though they aren't afraid of taking players from smaller schools. 
+Overall it's an interesting group and the A's stuck to their m.o. by prioritizing up the middle position players and jumbo pitchers with a mix that skews towards college players, though they aren't afraid of taking players from smaller schools.
 
 # My Favorites
 
@@ -72,7 +72,7 @@ Caleb Roberts (C / OF) - maybe a catcher, good plate discipline at big school. R
 
 Gavin Conticello (3B) - lefty, left side of infield, power. Round 3-5.
 
-Ryan Bliss (SS) - SEC performer. Round 2
+Ryan Bliss (SS) - SEC performer. Round 2.
 
 Blake Dunn (OF) - multi-sport (football, track, basketball). Round 11+.
 
@@ -80,8 +80,12 @@ TJ White (OF) - young, power. Round 4-6.
 
 Thaddeus Ector (OF) - young, switch hitter, athlete. Round 6-10.
 
-Brennon McNair (SS) - multi-sport (football), student body president, valedictorian, up the middle, two way player. Round 6-10
+Brennon McNair (SS) - multi-sport (football), student body president, valedictorian, up the middle, two way player. Round 6-10.
 
-Wyatt Hendrie (C / OF) - plate discipline, good athlete for C. Round 6-10
+Wyatt Hendrie (C / OF) - plate discipline, good athlete for C. Round 6-10.
 
-Kevin Bazzell (C) - young, up the middle, bat speed. Round 6-10
+Kevin Bazzell (C) - young, up the middle, bat speed. Round 6-10.
+
+Steven Hajjar (LHP) - young, frame, performance. Round 2.
+
+Ryan Spikes (SS) - 
