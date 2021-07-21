@@ -3,7 +3,7 @@ layout: post
 title: 2021 MLB Draft Review
 excerpt: Consensus board. Oakland's draft. Personal favorites.
 date: 2021-07-14 00:00:00 -0700
-last_modified_at: 
+last_modified_at: 2021-07-21 00:00:00 -0700
 categories: []
 tags:
 - Sports
@@ -88,4 +88,12 @@ Kevin Bazzell (C) - young, up the middle, bat speed. Round 6-10.
 
 Steven Hajjar (LHP) - young, frame, performance. Round 2.
 
-Ryan Spikes (SS) - 
+Ryan Spikes (SS) - young, up the middle, power potential. Round 2.
+
+Alec Willis (RHP) - young, frame, stuff projection. Round 3-5.
+
+Micah Ottenbreit (RHP) - young, cold weather, frame and stuff projection. Round 2-3.
+
+# Shadow Draft
+
+It's a bit of a cop out to do after the draft and a fool's errand anyway, but once more bonus information comes through, I'll add what I might have done with the A's picks here.
